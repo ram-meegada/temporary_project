@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ChatGPT Interface</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f5f5f5;
+        }
+        .chat-container {
+            display: flex;
+            flex-direction: column;
+            height: 100vh;
+            max-width: 800px;
+            margin: 0 auto;
+            border: 1px solid #ddd;
+            background: #fff;
+        }
+        .messages {
+            flex: 1;
+            overflow-y: auto;
+            padding: 20px;
+        }
+        .message {
+            margin-bottom: 15px;
+            padding: 10px;
+            border-radius: 8px;
+            max-width: 70%;
+        }
+        .message.user {
+            background-color: #e1f5fe;
+            align-self: flex-end;
+        }
+        .message.bot {
+            background-color: #f1f8e9;
+            align-self: flex-start;
+        }
+        .input-container {
+            display: flex;
+            padding: 10px;
+            border-top: 1px solid #ddd;
+            background: #f9f9f9;
+        }
+        .input-container input {
+            flex: 1;
+            padding: 10px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            font-size: 16px;
+        }
+        .input-container button {
+            margin-left: 10px;
+            padding: 10px 20px;
+            background-color: #007bff;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+        .input-container button:hover {
+            background-color: #0056b3;
+        }
+        .message pre {
+            margin: 0;
+            white-space: pre-wrap; /* allows line wrap */
+            font-family: monospace;
+        }
+    </style>
+</head>
+<body>
+    <div class="chat-container">
+        <div class="messages" id="messages"></div>
+        <div class="input-container">
+            <input type="text" id="messageInput" placeholder="Type your message here...">
+            <button id="sendButton">Send</button>
+        </div>
+    </div>
+
+    <script>
+        const messagesContainer = document.getElementById('messages');
+        const messageInput = document.getElementById('messageInput');
+        const sendButton = document.getElementById('sendButton');
+
+        // Connect to WebSocket
+        const socket = new WebSocket('ws://127.0.0.1:9000/run/terraform/');
+
+        // Append message to chat
+        function appendMessage(content, sender) {
+            const messageDiv = document.createElement('div');
+            messageDiv.classList.add('message', sender);
+
+            if (content.type === 1) {
+                const pre = document.createElement('pre');
+                pre.textContent = content.temp;
+                messageDiv.appendChild(pre);
+            }
+            else if (content.type === 2) {
+                messageDiv.style.backgroundColor = '#f0f0f0'; // Set a different background color for the buttons block
+                content.temp.forEach(text => {
+                    const button = document.createElement('button');
+                    button.textContent = text;
+                    button.classList.add('response-button');
+                    button.style.display = 'block'; // Display buttons one by one
+                    button.style.marginBottom = '10px'; // Add space between buttons
+                    button.addEventListener('click', function() {
+                        appendMessage(text, 'user');
+                        socket.send(JSON.stringify({ message: text }));
+                    });
+                    messageDiv.appendChild(button);
+                });
+
+                // Add the "Destroy" button
+                const destroyButton = document.createElement('button');
+                destroyButton.textContent = 'Destroy';
+                destroyButton.classList.add('response-button');
+                destroyButton.style.display = 'block';
+                destroyButton.style.marginBottom = '10px';
+                destroyButton.style.backgroundColor = 'red'; // Set red color for the "Destroy" button
+                destroyButton.style.color = 'white'; // Set text color to white
+                destroyButton.addEventListener('click', function() {
+                    appendMessage('Destroy', 'user');
+                    socket.send(JSON.stringify({ message: 'Destroy' }));
+                });
+                messageDiv.appendChild(destroyButton);
+            }
+            messagesContainer.appendChild(messageDiv);
+            messagesContainer.scrollTop = messagesContainer.scrollHeight;
+        }
+
+        // Handle WebSocket messages
+        socket.onmessage = function(event) {
+            const message = JSON.parse(event.data)
+            appendMessage(message, 'bot');
+        };
+
+        // Send message on button click
+        sendButton.addEventListener('click', function() {
+            const message = messageInput.value.trim();
+            if (message) {
+                socket.send(JSON.stringify({ message: message }));
+                messageInput.value = '';
+            }
+        });
+
+        // Send message on Enter key press
+        messageInput.addEventListener('keypress', function(event) {
+            if (event.key === 'Enter') {
+                sendButton.click();
+            }
+        });
+    </script>
+</body>
+</html>

@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sample HTML Page</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            padding: 20px;
+            background-color: #f4f4f4;
+        }
+        .container {
+            max-width: 600px;
+            margin: auto;
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            color: #333;
+        }
+        button {
+            padding: 10px 15px;
+            background-color: #007bff;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+<div class="container">
+    {% if 1 %}
+    <li class="nav-item navs-heading-pills">
+        <div class="dropdown">
+        <a class="nav-link {{newsclass}} dropdown-toggle fixeddp"  data-toggle="dropdown"
+        aria-haspopup="true" aria-expanded="false">News </a>
+        <div class="dropdown-menu dropdown-menu-full titlecase p-y-0" aria-labelledby="" style="position:fixed">
+            <a class="dropdown-item gray6e">All</a>
+            <a href="#" class="dropdown-item gray6e">News</a>
+            {% if 4 not in temp %}
+                <a href="#"  class="dropdown-item gray6e">Earnings Calls</a>
+                <a href="#"  class="dropdown-item gray6e">Corporate Announcements</a>
+            {% endif %}
+            <a href="#" class="dropdown-item gray6e">Research Reports</a>
+        </div>
+        <div>
+    </li>
+    {% endif %}
+</div>
+
+</body>
+</html>

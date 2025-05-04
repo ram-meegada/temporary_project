@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Real Estate Listings</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        .container {
+            width: 80%;
+            margin: 0 auto;
+        }
+        .listing-card {
+            display: flex;
+            flex-direction: column;
+            background-color: #fff;
+            margin: 20px 0;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+        .listing-card img {
+            width: 100%;
+            height: auto;
+            border-radius: 8px;
+        }
+        .listing-card h2 {
+            font-size: 1.8em;
+            color: #333;
+            margin-top: 10px;
+        }
+        .listing-card .details {
+            font-size: 1.1em;
+            color: #555;
+            margin-top: 10px;
+        }
+        .listing-card .price {
+            font-size: 1.5em;
+            font-weight: bold;
+            color: #007BFF;
+            margin-top: 10px;
+        }
+        .listing-card .location {
+            color: #777;
+            margin-top: 5px;
+        }
+        .listing-card .info {
+            display: flex;
+            justify-content: space-between;
+            margin-top: 20px;
+        }
+        .listing-card .info span {
+            font-weight: bold;
+        }
+        .listing-card .info p {
+            color: #333;
+        }
+        .listing-card a {
+            text-decoration: none;
+            color: #fff;
+            background-color: #007BFF;
+            padding: 10px 15px;
+            border-radius: 5px;
+            margin-top: 20px;
+            display: inline-block;
+            text-align: center;
+        }
+        .listing-card a:hover {
+            background-color: #0056b3;
+        }
+        .listing-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            gap: 20px;
+        }
+        .pagination {
+            text-align: center;
+            margin-top: 30px;
+        }
+        .pagination a {
+            text-decoration: none;
+            color: #007BFF;
+            padding: 10px 15px;
+            margin: 0 5px;
+            border-radius: 5px;
+        }
+        .pagination a:hover {
+            background-color: #f0f0f0;
+        }
+        .pagination .current {
+            background-color: #007BFF;
+            color: #fff;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Real Estate Listings</h1>
+        
+        <div class="listing-grid">
+            {% for listing in listings %}
+                <div class="listing-card">
+                    <img src="/photos/2024/12/26/real_estate_tH9YPnk.jpeg" alt="Listing Photo">
+                    <h2>{{ listing.title }}</h2>
+                    <div class="details">
+                        <p>{{ listing.description|truncatewords:20 }}</p>
+                    </div>
+                    <div class="price">${{ listing.price }}</div>
+                    <div class="location">{{ listing.city }}, {{ listing.state }}</div>
+                    <div class="info">
+                        <div>
+                            <span>Bedrooms:</span>
+                            <p>{{ listing.bedrooms }}</p>
+                        </div>
+                        <div>
+                            <span>Bathrooms:</span>
+                            <p>{{ listing.bathrooms }}</p>
+                        </div>
+                        <div>
+                            <span>Garage:</span>
+                            <p>{{ listing.garage }} car(s)</p>
+                        </div>
+                    </div>
+                    <div class="info">
+                        <div>
+                            <span>Square Feet:</span>
+                            <p>{{ listing.sqft }}</p>
+                        </div>
+                        <div>
+                            <span>Lot Size:</span>
+                            <p>{{ listing.lot_size }} acres</p>
+                        </div>
+                    </div>
+                    <div class="info">
+                        {% if listing.photo_1 %}
+                            <div><img src="{{ listing.photo_1.url }}" alt="Photo 1" style="width: 100px;"></div>
+                        {% endif %}
+                        {% if listing.photo_2 %}
+                            <div><img src="{{ listing.photo_2.url }}" alt="Photo 2" style="width: 100px;"></div>
+                        {% endif %}
+                        {% if listing.photo_3 %}
+                            <div><img src="{{ listing.photo_3.url }}" alt="Photo 3" style="width: 100px;"></div>
+                        {% endif %}
+                        {% if listing.photo_4 %}
+                            <div><img src="{{ listing.photo_4.url }}" alt="Photo 4" style="width: 100px;"></div>
+                        {% endif %}
+                        {% if listing.photo_5 %}
+                            <div><img src="{{ listing.photo_5.url }}" alt="Photo 5" style="width: 100px;"></div>
+                        {% endif %}
+                        {% if listing.photo_6 %}
+                            <div><img src="{{ listing.photo_6.url }}" alt="Photo 6" style="width: 100px;"></div>
+                        {% endif %}
+                    </div>
+                    <a href="#">View Details</a>
+                </div>
+            {% empty %}
+                <p>No listings available.</p>
+            {% endfor %}
+        </div>
+
+        <!-- Pagination -->
+        <div class="pagination">
+            {% if listings.has_previous %}
+                <a href="?page=1">&laquo; First</a>
+                <a href="?page={{ listings.previous_page_number }}">Previous</a>
+            {% endif %}
+
+            <span class="current">Page {{ listings.number }} of {{ listings.paginator.num_pages }}</span>
+
+            {% if listings.has_next %}
+                <a href="?page={{ listings.next_page_number }}">Next</a>
+                <a href="?page={{ listings.paginator.num_pages }}">Last &raquo;</a>
+            {% endif %}
+        </div>
+    </div>
+</body>
+</html>

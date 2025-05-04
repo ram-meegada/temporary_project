@@ -1,0 +1,3172 @@
+{
+    "head": {
+        "status": 0,
+        "statusDescription": "Success",
+        "responseCode": null
+    },
+    "body": {
+        "mfReport": {
+            "equity": {
+                "InvestedValueP": 100.0,
+                "InvestedValue": 2300.0,
+                "CurrentValueP": 100.0,
+                "CurrentValue": 19358.18,
+                "unrealizedGainValueP": 100.0,
+                "unrealizedGainValue": 17058.18,
+                "constituent": [
+                    {
+                        "Name": "Aditya Birla Sun Life Equity Advantage Fund Growth",
+                        "InvestedValueP": 1.0,
+                        "CurrentValueP": 1.0,
+                        "unrealizedGainValueP": 1.0
+                    }
+                ],
+                "equityHoldingAllocation": {
+                    "industry": [
+                        {
+                            "name": "Banks",
+                            "currentValue": 2749.254531054,
+                            "investedAmount": 326.64669,
+                            "unrealizedGainValue": 2422.607841054,
+                            "weightage": 0.1420203,
+                            "currentValueP": 14.20203,
+                            "investedAmountP": 14.20203,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "Auto Parts & Equipment",
+                            "currentValue": 1553.681719346,
+                            "investedAmount": 184.59731,
+                            "unrealizedGainValue": 1369.084409346,
+                            "weightage": 0.0802597,
+                            "currentValueP": 8.02597,
+                            "investedAmountP": 8.02597,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "IT Consulting & Software",
+                            "currentValue": 1103.62919998,
+                            "investedAmount": 131.1253,
+                            "unrealizedGainValue": 972.50389998,
+                            "weightage": 0.057011,
+                            "currentValueP": 5.7011,
+                            "investedAmountP": 5.7011,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "Refineries/Petro-Products",
+                            "currentValue": 870.893545112,
+                            "investedAmount": 103.47332,
+                            "unrealizedGainValue": 767.420225112,
+                            "weightage": 0.0449884,
+                            "currentValueP": 4.49884,
+                            "investedAmountP": 4.49884,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "Pharmaceuticals",
+                            "currentValue": 709.684429526,
+                            "investedAmount": 84.31961,
+                            "unrealizedGainValue": 625.364819526,
+                            "weightage": 0.0366607,
+                            "currentValueP": 3.66607,
+                            "investedAmountP": 3.66607,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "Construction & Engineering",
+                            "currentValue": 676.959426236,
+                            "investedAmount": 80.43146,
+                            "unrealizedGainValue": 596.527966236,
+                            "weightage": 0.0349702,
+                            "currentValueP": 3.49702,
+                            "investedAmountP": 3.49702,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "Textiles",
+                            "currentValue": 663.640998396,
+                            "investedAmount": 78.84906,
+                            "unrealizedGainValue": 584.791938396,
+                            "weightage": 0.0342822,
+                            "currentValueP": 3.42822,
+                            "investedAmountP": 3.42822,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "Finance (including NBFCs)",
+                            "currentValue": 604.118466532,
+                            "investedAmount": 71.77702,
+                            "unrealizedGainValue": 532.341446532,
+                            "weightage": 0.0312074,
+                            "currentValueP": 3.12074,
+                            "investedAmountP": 3.12074,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "Iron & Steel Products",
+                            "currentValue": 537.319194806,
+                            "investedAmount": 63.84041,
+                            "unrealizedGainValue": 473.478784806,
+                            "weightage": 0.0277567,
+                            "currentValueP": 2.77567,
+                            "investedAmountP": 2.77567,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "Defence",
+                            "currentValue": 534.880064126,
+                            "investedAmount": 63.55061,
+                            "unrealizedGainValue": 471.329454126,
+                            "weightage": 0.0276307,
+                            "currentValueP": 2.76307,
+                            "investedAmountP": 2.76307,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "Healthcare Facilities",
+                            "currentValue": 534.48902889,
+                            "investedAmount": 63.50415,
+                            "unrealizedGainValue": 470.98487889,
+                            "weightage": 0.0276105,
+                            "currentValueP": 2.76105,
+                            "investedAmountP": 2.76105,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "Hotels",
+                            "currentValue": 484.750121198,
+                            "investedAmount": 57.59453,
+                            "unrealizedGainValue": 427.155591198,
+                            "weightage": 0.0250411,
+                            "currentValueP": 2.50411,
+                            "investedAmountP": 2.50411,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "Cement & Cement Products",
+                            "currentValue": 439.777197422,
+                            "investedAmount": 52.25117,
+                            "unrealizedGainValue": 387.526027422,
+                            "weightage": 0.0227179,
+                            "currentValueP": 2.27179,
+                            "investedAmountP": 2.27179,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "Heavy Electrical Equipment",
+                            "currentValue": 420.378365244,
+                            "investedAmount": 49.94634,
+                            "unrealizedGainValue": 370.432025244,
+                            "weightage": 0.0217158,
+                            "currentValueP": 2.17158,
+                            "investedAmountP": 2.17158,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "Realty",
+                            "currentValue": 400.638829098,
+                            "investedAmount": 47.60103,
+                            "unrealizedGainValue": 353.037799098,
+                            "weightage": 0.0206961,
+                            "currentValueP": 2.06961,
+                            "investedAmountP": 2.06961,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "Internet & Catalogue Retail",
+                            "currentValue": 369.139198602,
+                            "investedAmount": 43.85847,
+                            "unrealizedGainValue": 325.280728602,
+                            "weightage": 0.0190689,
+                            "currentValueP": 1.90689,
+                            "investedAmountP": 1.90689,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "Electric Utilities",
+                            "currentValue": 338.501007116,
+                            "investedAmount": 40.21826,
+                            "unrealizedGainValue": 298.282747116,
+                            "weightage": 0.0174862,
+                            "currentValueP": 1.74862,
+                            "investedAmountP": 1.74862,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "Telecom Services",
+                            "currentValue": 324.011409386,
+                            "investedAmount": 38.49671,
+                            "unrealizedGainValue": 285.514699386,
+                            "weightage": 0.0167377,
+                            "currentValueP": 1.67377,
+                            "investedAmountP": 1.67377,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "Consumer Electronics",
+                            "currentValue": 323.935912484,
+                            "investedAmount": 38.48774,
+                            "unrealizedGainValue": 285.448172484,
+                            "weightage": 0.0167338,
+                            "currentValueP": 1.67338,
+                            "investedAmountP": 1.67338,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "Life Insurance",
+                            "currentValue": 323.40743417,
+                            "investedAmount": 38.42495,
+                            "unrealizedGainValue": 284.98248417,
+                            "weightage": 0.0167065,
+                            "currentValueP": 1.67065,
+                            "investedAmountP": 1.67065,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "Other Industrial Products",
+                            "currentValue": 315.466708734,
+                            "investedAmount": 37.48149,
+                            "unrealizedGainValue": 277.985218734,
+                            "weightage": 0.0162963,
+                            "currentValueP": 1.62963,
+                            "investedAmountP": 1.62963,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "Department Stores",
+                            "currentValue": 311.922225976,
+                            "investedAmount": 37.06036,
+                            "unrealizedGainValue": 274.861865976,
+                            "weightage": 0.0161132,
+                            "currentValueP": 1.61132,
+                            "investedAmountP": 1.61132,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "Internet Software & Services",
+                            "currentValue": 305.932805084,
+                            "investedAmount": 36.34874,
+                            "unrealizedGainValue": 269.584065084,
+                            "weightage": 0.0158038,
+                            "currentValueP": 1.58038,
+                            "investedAmountP": 1.58038,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "Utilities:Non-Electrical",
+                            "currentValue": 288.266530016,
+                            "investedAmount": 34.24976,
+                            "unrealizedGainValue": 254.016770016,
+                            "weightage": 0.0148912,
+                            "currentValueP": 1.48912,
+                            "investedAmountP": 1.48912,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "Iron & Steel/Interm.Products",
+                            "currentValue": 286.468155094,
+                            "investedAmount": 34.03609,
+                            "unrealizedGainValue": 252.432065094,
+                            "weightage": 0.0147983,
+                            "currentValueP": 1.47983,
+                            "investedAmountP": 1.47983,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "Restaurants",
+                            "currentValue": 279.050100518,
+                            "investedAmount": 33.15473,
+                            "unrealizedGainValue": 245.895370518,
+                            "weightage": 0.0144151,
+                            "currentValueP": 1.44151,
+                            "investedAmountP": 1.44151,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "Housing Finance ",
+                            "currentValue": 277.029106526,
+                            "investedAmount": 32.91461,
+                            "unrealizedGainValue": 244.114496526,
+                            "weightage": 0.0143107,
+                            "currentValueP": 1.43107,
+                            "investedAmountP": 1.43107,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "Airlines",
+                            "currentValue": 272.884520188,
+                            "investedAmount": 32.42218,
+                            "unrealizedGainValue": 240.462340188,
+                            "weightage": 0.0140966,
+                            "currentValueP": 1.40966,
+                            "investedAmountP": 1.40966,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "Others",
+                            "currentValue": 263.824891948,
+                            "investedAmount": 31.34578,
+                            "unrealizedGainValue": 232.479111948,
+                            "weightage": 0.0136286,
+                            "currentValueP": 1.36286,
+                            "investedAmountP": 1.36286,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "Warehousing and Logistics",
+                            "currentValue": 263.031206568,
+                            "investedAmount": 31.25148,
+                            "unrealizedGainValue": 231.779726568,
+                            "weightage": 0.0135876,
+                            "currentValueP": 1.35876,
+                            "investedAmountP": 1.35876,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "Commercial Vehicles",
+                            "currentValue": 238.08625582,
+                            "investedAmount": 28.2877,
+                            "unrealizedGainValue": 209.79855582,
+                            "weightage": 0.012299,
+                            "currentValueP": 1.2299,
+                            "investedAmountP": 1.2299,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "Financial Institutions",
+                            "currentValue": 237.952684378,
+                            "investedAmount": 28.27183,
+                            "unrealizedGainValue": 209.680854378,
+                            "weightage": 0.0122921,
+                            "currentValueP": 1.22921,
+                            "investedAmountP": 1.22921,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "2/3 Wheelers",
+                            "currentValue": 219.291398858,
+                            "investedAmount": 26.05463,
+                            "unrealizedGainValue": 193.236768858,
+                            "weightage": 0.0113281,
+                            "currentValueP": 1.13281,
+                            "investedAmountP": 1.13281,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "Breweries & Distilleries",
+                            "currentValue": 217.41171958,
+                            "investedAmount": 25.8313,
+                            "unrealizedGainValue": 191.58041958,
+                            "weightage": 0.011231,
+                            "currentValueP": 1.1231,
+                            "investedAmountP": 1.1231,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "Roads & Highways",
+                            "currentValue": 206.859575662,
+                            "investedAmount": 24.57757,
+                            "unrealizedGainValue": 182.282005662,
+                            "weightage": 0.0106859,
+                            "currentValueP": 1.06859,
+                            "investedAmountP": 1.06859,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "Other Apparels & Accessories",
+                            "currentValue": 188.418973394,
+                            "investedAmount": 22.38659,
+                            "unrealizedGainValue": 166.032383394,
+                            "weightage": 0.0097333,
+                            "currentValueP": 0.97333,
+                            "investedAmountP": 0.97333,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "Aluminium and Aluminium Products",
+                            "currentValue": 185.14163352,
+                            "investedAmount": 21.9972,
+                            "unrealizedGainValue": 163.14443352,
+                            "weightage": 0.009564,
+                            "currentValueP": 0.9564,
+                            "investedAmountP": 0.9564,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "Gems & Jewellery",
+                            "currentValue": 183.647182024,
+                            "investedAmount": 21.81964,
+                            "unrealizedGainValue": 161.827542024,
+                            "weightage": 0.0094868,
+                            "currentValueP": 0.94868,
+                            "investedAmountP": 0.94868,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "Commodity Chemicals",
+                            "currentValue": 175.708392406,
+                            "investedAmount": 20.87641,
+                            "unrealizedGainValue": 154.831982406,
+                            "weightage": 0.0090767,
+                            "currentValueP": 0.90767,
+                            "investedAmountP": 0.90767,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "Houseware",
+                            "currentValue": 170.626870156,
+                            "investedAmount": 20.27266,
+                            "unrealizedGainValue": 150.354210156,
+                            "weightage": 0.0088142,
+                            "currentValueP": 0.88142,
+                            "investedAmountP": 0.88142,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "Marine Port & Services",
+                            "currentValue": 146.252985718,
+                            "investedAmount": 17.37673,
+                            "unrealizedGainValue": 128.876255718,
+                            "weightage": 0.0075551,
+                            "currentValueP": 0.75551,
+                            "investedAmountP": 0.75551,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "Non-alcoholic Beverages",
+                            "currentValue": 131.101338232,
+                            "investedAmount": 15.57652,
+                            "unrealizedGainValue": 115.524818232,
+                            "weightage": 0.0067724,
+                            "currentValueP": 0.67724,
+                            "investedAmountP": 0.67724,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "General Insurance",
+                            "currentValue": 126.23469178,
+                            "investedAmount": 14.9983,
+                            "unrealizedGainValue": 111.23639178,
+                            "weightage": 0.006521,
+                            "currentValueP": 0.6521,
+                            "investedAmountP": 0.6521,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "Electronic Components",
+                            "currentValue": 92.530164582,
+                            "investedAmount": 10.99377,
+                            "unrealizedGainValue": 81.536394582,
+                            "weightage": 0.0047799,
+                            "currentValueP": 0.47799,
+                            "investedAmountP": 0.47799,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "Holding Companies",
+                            "currentValue": 65.854592542,
+                            "investedAmount": 7.82437,
+                            "unrealizedGainValue": 58.030222542,
+                            "weightage": 0.0034019,
+                            "currentValueP": 0.34019,
+                            "investedAmountP": 0.34019,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        }
+                    ],
+                    "sector": [
+                        {
+                            "name": "Banking and Finance",
+                            "currentValue": 4317.99691444,
+                            "investedAmount": 513.0334,
+                            "unrealizedGainValue": 3804.96351444,
+                            "weightage": 0.223058,
+                            "currentValueP": 22.3058,
+                            "investedAmountP": 22.3058,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "Automobiles & Auto Components",
+                            "currentValue": 2011.059374024,
+                            "investedAmount": 238.93964,
+                            "unrealizedGainValue": 1772.119734024,
+                            "weightage": 0.1038868,
+                            "currentValueP": 10.38868,
+                            "investedAmountP": 10.38868,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "Software & Services",
+                            "currentValue": 1778.701203666,
+                            "investedAmount": 211.33251,
+                            "unrealizedGainValue": 1567.368693666,
+                            "weightage": 0.0918837,
+                            "currentValueP": 9.18837,
+                            "investedAmountP": 9.18837,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "Cement and Construction ",
+                            "currentValue": 1323.59619932,
+                            "investedAmount": 157.2602,
+                            "unrealizedGainValue": 1166.33599932,
+                            "weightage": 0.068374,
+                            "currentValueP": 6.8374,
+                            "investedAmountP": 6.8374,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "General Industrials",
+                            "currentValue": 1270.725138104,
+                            "investedAmount": 150.97844,
+                            "unrealizedGainValue": 1119.746698104,
+                            "weightage": 0.0656428,
+                            "currentValueP": 6.56428,
+                            "investedAmountP": 6.56428,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "Textiles Apparels & Accessories",
+                            "currentValue": 1035.707153814,
+                            "investedAmount": 123.05529,
+                            "unrealizedGainValue": 912.651863814,
+                            "weightage": 0.0535023,
+                            "currentValueP": 5.35023,
+                            "investedAmountP": 5.35023,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "Metals & Mining",
+                            "currentValue": 1008.92898342,
+                            "investedAmount": 119.8737,
+                            "unrealizedGainValue": 889.05528342,
+                            "weightage": 0.052119,
+                            "currentValueP": 5.2119,
+                            "investedAmountP": 5.2119,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "Oil & Gas",
+                            "currentValue": 870.893545112,
+                            "investedAmount": 103.47332,
+                            "unrealizedGainValue": 767.420225112,
+                            "weightage": 0.0449884,
+                            "currentValueP": 4.49884,
+                            "investedAmountP": 4.49884,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "Hotels Restaurants & Tourism",
+                            "currentValue": 763.800221716,
+                            "investedAmount": 90.74926,
+                            "unrealizedGainValue": 673.050961716,
+                            "weightage": 0.0394562,
+                            "currentValueP": 3.94562,
+                            "investedAmountP": 3.94562,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "Pharmaceuticals & Biotechnology",
+                            "currentValue": 709.684429526,
+                            "investedAmount": 84.31961,
+                            "unrealizedGainValue": 625.364819526,
+                            "weightage": 0.0366607,
+                            "currentValueP": 3.66607,
+                            "investedAmountP": 3.66607,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "Utilities",
+                            "currentValue": 626.767537132,
+                            "investedAmount": 74.46802,
+                            "unrealizedGainValue": 552.299517132,
+                            "weightage": 0.0323774,
+                            "currentValueP": 3.23774,
+                            "investedAmountP": 3.23774,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "Diversified Consumer Services",
+                            "currentValue": 534.48902889,
+                            "investedAmount": 63.50415,
+                            "unrealizedGainValue": 470.98487889,
+                            "weightage": 0.0276105,
+                            "currentValueP": 2.76105,
+                            "investedAmountP": 2.76105,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "Consumer Durables",
+                            "currentValue": 494.56278264,
+                            "investedAmount": 58.7604,
+                            "unrealizedGainValue": 435.80238264,
+                            "weightage": 0.025548,
+                            "currentValueP": 2.5548,
+                            "investedAmountP": 2.5548,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "Transportation",
+                            "currentValue": 419.137505906,
+                            "investedAmount": 49.79891,
+                            "unrealizedGainValue": 369.338595906,
+                            "weightage": 0.0216517,
+                            "currentValueP": 2.16517,
+                            "investedAmountP": 2.16517,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "Realty",
+                            "currentValue": 400.638829098,
+                            "investedAmount": 47.60103,
+                            "unrealizedGainValue": 353.037799098,
+                            "weightage": 0.0206961,
+                            "currentValueP": 2.06961,
+                            "investedAmountP": 2.06961,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "Commercial Services & Supplies",
+                            "currentValue": 355.56137115,
+                            "investedAmount": 42.24525,
+                            "unrealizedGainValue": 313.31612115,
+                            "weightage": 0.0183675,
+                            "currentValueP": 1.83675,
+                            "investedAmountP": 1.83675,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "Food Beverages & Tobacco",
+                            "currentValue": 348.513057812,
+                            "investedAmount": 41.40782,
+                            "unrealizedGainValue": 307.105237812,
+                            "weightage": 0.0180034,
+                            "currentValueP": 1.80034,
+                            "investedAmountP": 1.80034,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "Telecom Services",
+                            "currentValue": 324.011409386,
+                            "investedAmount": 38.49671,
+                            "unrealizedGainValue": 285.514699386,
+                            "weightage": 0.0167377,
+                            "currentValueP": 1.67377,
+                            "investedAmountP": 1.67377,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "Retailing",
+                            "currentValue": 311.922225976,
+                            "investedAmount": 37.06036,
+                            "unrealizedGainValue": 274.861865976,
+                            "weightage": 0.0161132,
+                            "currentValueP": 1.61132,
+                            "investedAmountP": 1.61132,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "Others",
+                            "currentValue": 263.824891948,
+                            "investedAmount": 31.34578,
+                            "unrealizedGainValue": 232.479111948,
+                            "weightage": 0.0136286,
+                            "currentValueP": 1.36286,
+                            "investedAmountP": 1.36286,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "Chemicals & Petrochemicals",
+                            "currentValue": 175.708392406,
+                            "investedAmount": 20.87641,
+                            "unrealizedGainValue": 154.831982406,
+                            "weightage": 0.0090767,
+                            "currentValueP": 0.90767,
+                            "investedAmountP": 0.90767,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "Diversified",
+                            "currentValue": 65.854592542,
+                            "investedAmount": 7.82437,
+                            "unrealizedGainValue": 58.030222542,
+                            "weightage": 0.0034019,
+                            "currentValueP": 0.34019,
+                            "investedAmountP": 0.34019,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        }
+                    ],
+                    "mcap": [
+                        {
+                            "name": "Large Cap",
+                            "currentValue": 9339.29586646,
+                            "investedAmount": 1109.6281,
+                            "unrealizedGainValue": 8229.66776646,
+                            "weightage": 0.482447,
+                            "currentValueP": 48.2447,
+                            "investedAmountP": 48.2447,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "Mid Cap",
+                            "currentValue": 7033.395924492,
+                            "investedAmount": 835.65762,
+                            "unrealizedGainValue": 6197.738304492,
+                            "weightage": 0.3633294,
+                            "currentValueP": 36.33294,
+                            "investedAmountP": 36.33294,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "Small Cap",
+                            "currentValue": 2775.568105128,
+                            "investedAmount": 329.77308,
+                            "unrealizedGainValue": 2445.795025128,
+                            "weightage": 0.1433796,
+                            "currentValueP": 14.33796,
+                            "investedAmountP": 14.33796,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "Others",
+                            "currentValue": 263.824891948,
+                            "investedAmount": 31.34578,
+                            "unrealizedGainValue": 232.479111948,
+                            "weightage": 0.0136286,
+                            "currentValueP": 1.36286,
+                            "investedAmountP": 1.36286,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        }
+                    ],
+                    "equityHoldings": [
+                        {
+                            "name": "ICICI Bank Ltd.",
+                            "currentValue": 827.66866499,
+                            "investedAmount": 98.33765,
+                            "unrealizedGainValue": 729.33101499,
+                            "weightage": 0.0427555,
+                            "currentValueP": 4.27555,
+                            "investedAmountP": 4.27555,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "Infosys Ltd.",
+                            "currentValue": 820.89330199,
+                            "investedAmount": 97.53265,
+                            "unrealizedGainValue": 723.36065199,
+                            "weightage": 0.0424055,
+                            "currentValueP": 4.24055,
+                            "investedAmountP": 4.24055,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "HDFC Bank Ltd.",
+                            "currentValue": 680.341300282,
+                            "investedAmount": 80.83327,
+                            "unrealizedGainValue": 599.508030282,
+                            "weightage": 0.0351449,
+                            "currentValueP": 3.51449,
+                            "investedAmountP": 3.51449,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "Fortis Healthcare Ltd.",
+                            "currentValue": 534.48902889,
+                            "investedAmount": 63.50415,
+                            "unrealizedGainValue": 470.98487889,
+                            "weightage": 0.0276105,
+                            "currentValueP": 2.76105,
+                            "investedAmountP": 2.76105,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "Reliance Industries Ltd.",
+                            "currentValue": 483.863516554,
+                            "investedAmount": 57.48919,
+                            "unrealizedGainValue": 426.374326554,
+                            "weightage": 0.0249953,
+                            "currentValueP": 2.49953,
+                            "investedAmountP": 2.49953,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "JK Cement Ltd.",
+                            "currentValue": 439.777197422,
+                            "investedAmount": 52.25117,
+                            "unrealizedGainValue": 387.526027422,
+                            "weightage": 0.0227179,
+                            "currentValueP": 2.27179,
+                            "investedAmountP": 2.27179,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "Larsen & Toubro Ltd.",
+                            "currentValue": 425.496668036,
+                            "investedAmount": 50.55446,
+                            "unrealizedGainValue": 374.942208036,
+                            "weightage": 0.0219802,
+                            "currentValueP": 2.19802,
+                            "investedAmountP": 2.19802,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "Hindustan Petroleum Corporation Ltd.",
+                            "currentValue": 387.030028558,
+                            "investedAmount": 45.98413,
+                            "unrealizedGainValue": 341.045898558,
+                            "weightage": 0.0199931,
+                            "currentValueP": 1.99931,
+                            "investedAmountP": 1.99931,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "State Bank of India",
+                            "currentValue": 376.475948822,
+                            "investedAmount": 44.73017,
+                            "unrealizedGainValue": 331.745778822,
+                            "weightage": 0.0194479,
+                            "currentValueP": 1.94479,
+                            "investedAmountP": 1.94479,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "UNO Minda Ltd.",
+                            "currentValue": 348.424010184,
+                            "investedAmount": 41.39724,
+                            "unrealizedGainValue": 307.026770184,
+                            "weightage": 0.0179988,
+                            "currentValueP": 1.79988,
+                            "investedAmountP": 1.79988,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "Axis Bank Ltd.",
+                            "currentValue": 335.504360852,
+                            "investedAmount": 39.86222,
+                            "unrealizedGainValue": 295.642140852,
+                            "weightage": 0.0173314,
+                            "currentValueP": 1.73314,
+                            "investedAmountP": 1.73314,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "Bharti Airtel Ltd.",
+                            "currentValue": 324.011409386,
+                            "investedAmount": 38.49671,
+                            "unrealizedGainValue": 285.514699386,
+                            "weightage": 0.0167377,
+                            "currentValueP": 1.67377,
+                            "investedAmountP": 1.67377,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "Voltas Ltd.",
+                            "currentValue": 323.935912484,
+                            "investedAmount": 38.48774,
+                            "unrealizedGainValue": 285.448172484,
+                            "weightage": 0.0167338,
+                            "currentValueP": 1.67338,
+                            "investedAmountP": 1.67338,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "Max Financial Services Ltd.",
+                            "currentValue": 323.40743417,
+                            "investedAmount": 38.42495,
+                            "unrealizedGainValue": 284.98248417,
+                            "weightage": 0.0167065,
+                            "currentValueP": 1.67065,
+                            "investedAmountP": 1.67065,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "Trent Ltd.",
+                            "currentValue": 311.922225976,
+                            "investedAmount": 37.06036,
+                            "unrealizedGainValue": 274.861865976,
+                            "weightage": 0.0161132,
+                            "currentValueP": 1.61132,
+                            "investedAmountP": 1.61132,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "Info Edge (India) Ltd.",
+                            "currentValue": 305.932805084,
+                            "investedAmount": 36.34874,
+                            "unrealizedGainValue": 269.584065084,
+                            "weightage": 0.0158038,
+                            "currentValueP": 1.58038,
+                            "investedAmountP": 1.58038,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "Gokaldas Exports Ltd.",
+                            "currentValue": 298.073384004,
+                            "investedAmount": 35.41494,
+                            "unrealizedGainValue": 262.658444004,
+                            "weightage": 0.0153978,
+                            "currentValueP": 1.53978,
+                            "investedAmountP": 1.53978,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "Ajanta Pharma Ltd.",
+                            "currentValue": 295.001240838,
+                            "investedAmount": 35.04993,
+                            "unrealizedGainValue": 259.951310838,
+                            "weightage": 0.0152391,
+                            "currentValueP": 1.52391,
+                            "investedAmountP": 1.52391,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "Jindal Steel & Power Ltd.",
+                            "currentValue": 286.468155094,
+                            "investedAmount": 34.03609,
+                            "unrealizedGainValue": 252.432065094,
+                            "weightage": 0.0147983,
+                            "currentValueP": 1.47983,
+                            "investedAmountP": 1.47983,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "Chalet Hotels Ltd.",
+                            "currentValue": 284.600090724,
+                            "investedAmount": 33.81414,
+                            "unrealizedGainValue": 250.785950724,
+                            "weightage": 0.0147018,
+                            "currentValueP": 1.47018,
+                            "investedAmountP": 1.47018,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "Coforge Ltd.",
+                            "currentValue": 282.73589799,
+                            "investedAmount": 33.59265,
+                            "unrealizedGainValue": 249.14324799,
+                            "weightage": 0.0146055,
+                            "currentValueP": 1.46055,
+                            "investedAmountP": 1.46055,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "Welspun Corp Ltd.",
+                            "currentValue": 279.460493934,
+                            "investedAmount": 33.20349,
+                            "unrealizedGainValue": 246.257003934,
+                            "weightage": 0.0144363,
+                            "currentValueP": 1.44363,
+                            "investedAmountP": 1.44363,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "Jubilant Foodworks Ltd.",
+                            "currentValue": 279.050100518,
+                            "investedAmount": 33.15473,
+                            "unrealizedGainValue": 245.895370518,
+                            "weightage": 0.0144151,
+                            "currentValueP": 1.44151,
+                            "investedAmountP": 1.44151,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "LIC Housing Finance Ltd.",
+                            "currentValue": 277.029106526,
+                            "investedAmount": 32.91461,
+                            "unrealizedGainValue": 244.114496526,
+                            "weightage": 0.0143107,
+                            "currentValueP": 1.43107,
+                            "investedAmountP": 1.43107,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "Sona BLW Precision Forgings Ltd.",
+                            "currentValue": 276.775514368,
+                            "investedAmount": 32.88448,
+                            "unrealizedGainValue": 243.891034368,
+                            "weightage": 0.0142976,
+                            "currentValueP": 1.42976,
+                            "investedAmountP": 1.42976,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "Hindustan Aeronautics Ltd.",
+                            "currentValue": 273.13424071,
+                            "investedAmount": 32.45185,
+                            "unrealizedGainValue": 240.68239071,
+                            "weightage": 0.0141095,
+                            "currentValueP": 1.41095,
+                            "investedAmountP": 1.41095,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "InterGlobe Aviation Ltd.",
+                            "currentValue": 272.884520188,
+                            "investedAmount": 32.42218,
+                            "unrealizedGainValue": 240.462340188,
+                            "weightage": 0.0140966,
+                            "currentValueP": 1.40966,
+                            "investedAmountP": 1.40966,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "Others",
+                            "currentValue": 263.824891948,
+                            "investedAmount": 31.34578,
+                            "unrealizedGainValue": 232.479111948,
+                            "weightage": 0.0136286,
+                            "currentValueP": 1.36286,
+                            "investedAmountP": 1.36286,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "Container Corporation of India Ltd.",
+                            "currentValue": 263.031206568,
+                            "investedAmount": 31.25148,
+                            "unrealizedGainValue": 231.779726568,
+                            "weightage": 0.0135876,
+                            "currentValueP": 1.35876,
+                            "investedAmountP": 1.35876,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "Schaeffler India Ltd.",
+                            "currentValue": 262.25494355,
+                            "investedAmount": 31.15925,
+                            "unrealizedGainValue": 231.09569355,
+                            "weightage": 0.0135475,
+                            "currentValueP": 1.35475,
+                            "investedAmountP": 1.35475,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "Bharat Electronics Ltd.",
+                            "currentValue": 261.745823416,
+                            "investedAmount": 31.09876,
+                            "unrealizedGainValue": 230.647063416,
+                            "weightage": 0.0135212,
+                            "currentValueP": 1.35212,
+                            "investedAmountP": 1.35212,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "APL Apollo Tubes Ltd.",
+                            "currentValue": 257.858700872,
+                            "investedAmount": 30.63692,
+                            "unrealizedGainValue": 227.221780872,
+                            "weightage": 0.0133204,
+                            "currentValueP": 1.33204,
+                            "investedAmountP": 1.33204,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "Samvardhana Motherson International Ltd.",
+                            "currentValue": 250.750377176,
+                            "investedAmount": 29.79236,
+                            "unrealizedGainValue": 220.958017176,
+                            "weightage": 0.0129532,
+                            "currentValueP": 1.29532,
+                            "investedAmountP": 1.29532,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "Tube Investments of India Ltd.",
+                            "currentValue": 247.974414164,
+                            "investedAmount": 29.46254,
+                            "unrealizedGainValue": 218.511874164,
+                            "weightage": 0.0128098,
+                            "currentValueP": 1.28098,
+                            "investedAmountP": 1.28098,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "Au Small Finance Bank Ltd.",
+                            "currentValue": 246.698710102,
+                            "investedAmount": 29.31097,
+                            "unrealizedGainValue": 217.387740102,
+                            "weightage": 0.0127439,
+                            "currentValueP": 1.27439,
+                            "investedAmountP": 1.27439,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "Ashok Leyland Ltd.",
+                            "currentValue": 238.08625582,
+                            "investedAmount": 28.2877,
+                            "unrealizedGainValue": 209.79855582,
+                            "weightage": 0.012299,
+                            "currentValueP": 1.2299,
+                            "investedAmountP": 1.2299,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "REC Ltd.",
+                            "currentValue": 237.952684378,
+                            "investedAmount": 28.27183,
+                            "unrealizedGainValue": 209.680854378,
+                            "weightage": 0.0122921,
+                            "currentValueP": 1.22921,
+                            "investedAmountP": 1.22921,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "Shriram Finance Ltd.",
+                            "currentValue": 230.368149454,
+                            "investedAmount": 27.37069,
+                            "unrealizedGainValue": 202.997459454,
+                            "weightage": 0.0119003,
+                            "currentValueP": 1.19003,
+                            "investedAmountP": 1.19003,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "FSN E-Commerce Ventures Ltd.",
+                            "currentValue": 221.120746868,
+                            "investedAmount": 26.27198,
+                            "unrealizedGainValue": 194.848766868,
+                            "weightage": 0.0114226,
+                            "currentValueP": 1.14226,
+                            "investedAmountP": 1.14226,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "TVS Motor Company Ltd.",
+                            "currentValue": 219.291398858,
+                            "investedAmount": 26.05463,
+                            "unrealizedGainValue": 193.236768858,
+                            "weightage": 0.0113281,
+                            "currentValueP": 1.13281,
+                            "investedAmountP": 1.13281,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "United Breweries Ltd.",
+                            "currentValue": 217.41171958,
+                            "investedAmount": 25.8313,
+                            "unrealizedGainValue": 191.58041958,
+                            "weightage": 0.011231,
+                            "currentValueP": 1.1231,
+                            "investedAmountP": 1.1231,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "ABB India Ltd.",
+                            "currentValue": 214.4886344,
+                            "investedAmount": 25.484,
+                            "unrealizedGainValue": 189.0046344,
+                            "weightage": 0.01108,
+                            "currentValueP": 1.108,
+                            "investedAmountP": 1.108,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "Bharat Forge Ltd.",
+                            "currentValue": 213.64655357,
+                            "investedAmount": 25.38395,
+                            "unrealizedGainValue": 188.26260357,
+                            "weightage": 0.0110365,
+                            "currentValueP": 1.10365,
+                            "investedAmountP": 1.10365,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "IRB Infrastructure Developers Ltd.",
+                            "currentValue": 206.859575662,
+                            "investedAmount": 24.57757,
+                            "unrealizedGainValue": 182.282005662,
+                            "weightage": 0.0106859,
+                            "currentValueP": 1.06859,
+                            "investedAmountP": 1.06859,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "Phoenix Mills Ltd.",
+                            "currentValue": 204.795993674,
+                            "investedAmount": 24.33239,
+                            "unrealizedGainValue": 180.463603674,
+                            "weightage": 0.0105793,
+                            "currentValueP": 1.05793,
+                            "investedAmountP": 1.05793,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "Cholamandalam Investment & Finance Company Ltd.",
+                            "currentValue": 200.357163,
+                            "investedAmount": 23.805,
+                            "unrealizedGainValue": 176.552163,
+                            "weightage": 0.01035,
+                            "currentValueP": 1.035,
+                            "investedAmountP": 1.035,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "Samhi Hotels Ltd.",
+                            "currentValue": 200.150030474,
+                            "investedAmount": 23.78039,
+                            "unrealizedGainValue": 176.369640474,
+                            "weightage": 0.0103393,
+                            "currentValueP": 1.03393,
+                            "investedAmountP": 1.03393,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "Welspun Living Ltd.",
+                            "currentValue": 197.556034354,
+                            "investedAmount": 23.47219,
+                            "unrealizedGainValue": 174.083844354,
+                            "weightage": 0.0102053,
+                            "currentValueP": 1.02053,
+                            "investedAmountP": 1.02053,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "Sunteck Realty Ltd.",
+                            "currentValue": 195.842835424,
+                            "investedAmount": 23.26864,
+                            "unrealizedGainValue": 172.574195424,
+                            "weightage": 0.0101168,
+                            "currentValueP": 1.01168,
+                            "investedAmountP": 1.01168,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "Go Fashion (India) Ltd.",
+                            "currentValue": 188.418973394,
+                            "investedAmount": 22.38659,
+                            "unrealizedGainValue": 166.032383394,
+                            "weightage": 0.0097333,
+                            "currentValueP": 0.97333,
+                            "investedAmountP": 0.97333,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "NTPC Ltd.",
+                            "currentValue": 188.273787044,
+                            "investedAmount": 22.36934,
+                            "unrealizedGainValue": 165.904447044,
+                            "weightage": 0.0097258,
+                            "currentValueP": 0.97258,
+                            "investedAmountP": 0.97258,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "Hindalco Industries Ltd.",
+                            "currentValue": 185.14163352,
+                            "investedAmount": 21.9972,
+                            "unrealizedGainValue": 163.14443352,
+                            "weightage": 0.009564,
+                            "currentValueP": 0.9564,
+                            "investedAmountP": 0.9564,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "GAIL (India) Ltd.",
+                            "currentValue": 184.005308354,
+                            "investedAmount": 21.86219,
+                            "unrealizedGainValue": 162.143118354,
+                            "weightage": 0.0095053,
+                            "currentValueP": 0.95053,
+                            "investedAmountP": 0.95053,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "Titan Company Ltd.",
+                            "currentValue": 183.647182024,
+                            "investedAmount": 21.81964,
+                            "unrealizedGainValue": 161.827542024,
+                            "weightage": 0.0094868,
+                            "currentValueP": 0.94868,
+                            "investedAmountP": 0.94868,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "Navin Fluorine International Ltd.",
+                            "currentValue": 175.708392406,
+                            "investedAmount": 20.87641,
+                            "unrealizedGainValue": 154.831982406,
+                            "weightage": 0.0090767,
+                            "currentValueP": 0.90767,
+                            "investedAmountP": 0.90767,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "Bajaj Finance Ltd.",
+                            "currentValue": 173.393154078,
+                            "investedAmount": 20.60133,
+                            "unrealizedGainValue": 152.791824078,
+                            "weightage": 0.0089571,
+                            "currentValueP": 0.89571,
+                            "investedAmountP": 0.89571,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "Cello World Ltd.",
+                            "currentValue": 170.626870156,
+                            "investedAmount": 20.27266,
+                            "unrealizedGainValue": 150.354210156,
+                            "weightage": 0.0088142,
+                            "currentValueP": 0.88142,
+                            "investedAmountP": 0.88142,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "KPR Mill Ltd.",
+                            "currentValue": 168.011580038,
+                            "investedAmount": 19.96193,
+                            "unrealizedGainValue": 148.049650038,
+                            "weightage": 0.0086791,
+                            "currentValueP": 0.86791,
+                            "investedAmountP": 0.86791,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "Sundram Fasteners Ltd.",
+                            "currentValue": 167.502459904,
+                            "investedAmount": 19.90144,
+                            "unrealizedGainValue": 147.601019904,
+                            "weightage": 0.0086528,
+                            "currentValueP": 0.86528,
+                            "investedAmountP": 0.86528,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "IndusInd Bank Ltd.",
+                            "currentValue": 155.23324542,
+                            "investedAmount": 18.4437,
+                            "unrealizedGainValue": 136.78954542,
+                            "weightage": 0.008019,
+                            "currentValueP": 0.8019,
+                            "investedAmountP": 0.8019,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "NTPC Green Energy Ltd.",
+                            "currentValue": 150.227220072,
+                            "investedAmount": 17.84892,
+                            "unrealizedGainValue": 132.378300072,
+                            "weightage": 0.0077604,
+                            "currentValueP": 0.77604,
+                            "investedAmountP": 0.77604,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "Swiggy Ltd.",
+                            "currentValue": 148.018451734,
+                            "investedAmount": 17.58649,
+                            "unrealizedGainValue": 130.431961734,
+                            "weightage": 0.0076463,
+                            "currentValueP": 0.76463,
+                            "investedAmountP": 0.76463,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "KEC International Ltd.",
+                            "currentValue": 147.772602848,
+                            "investedAmount": 17.55728,
+                            "unrealizedGainValue": 130.215322848,
+                            "weightage": 0.0076336,
+                            "currentValueP": 0.76336,
+                            "investedAmountP": 0.76336,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "JSW Infrastructure Ltd.",
+                            "currentValue": 146.252985718,
+                            "investedAmount": 17.37673,
+                            "unrealizedGainValue": 128.876255718,
+                            "weightage": 0.0075551,
+                            "currentValueP": 0.75551,
+                            "investedAmountP": 0.75551,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "Sun Pharmaceutical Industries Ltd.",
+                            "currentValue": 144.936629478,
+                            "investedAmount": 17.22033,
+                            "unrealizedGainValue": 127.716299478,
+                            "weightage": 0.0074871,
+                            "currentValueP": 0.74871,
+                            "investedAmountP": 0.74871,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "Varun Beverages Ltd.",
+                            "currentValue": 131.101338232,
+                            "investedAmount": 15.57652,
+                            "unrealizedGainValue": 115.524818232,
+                            "weightage": 0.0067724,
+                            "currentValueP": 0.67724,
+                            "investedAmountP": 0.67724,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "Power Mech Projects Ltd.",
+                            "currentValue": 129.424919844,
+                            "investedAmount": 15.37734,
+                            "unrealizedGainValue": 114.047579844,
+                            "weightage": 0.0066858,
+                            "currentValueP": 0.66858,
+                            "investedAmountP": 0.66858,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "Star Health and Allied Insurance Company Ltd.",
+                            "currentValue": 126.23469178,
+                            "investedAmount": 14.9983,
+                            "unrealizedGainValue": 111.23639178,
+                            "weightage": 0.006521,
+                            "currentValueP": 0.6521,
+                            "investedAmountP": 0.6521,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "Emcure Pharmaceuticals Ltd.",
+                            "currentValue": 125.863014724,
+                            "investedAmount": 14.95414,
+                            "unrealizedGainValue": 110.908874724,
+                            "weightage": 0.0065018,
+                            "currentValueP": 0.65018,
+                            "investedAmountP": 0.65018,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "Kalpataru Projects International Ltd.",
+                            "currentValue": 122.037838356,
+                            "investedAmount": 14.49966,
+                            "unrealizedGainValue": 107.538178356,
+                            "weightage": 0.0063042,
+                            "currentValueP": 0.63042,
+                            "investedAmountP": 0.63042,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "Gujarat Gas Ltd.",
+                            "currentValue": 104.261221662,
+                            "investedAmount": 12.38757,
+                            "unrealizedGainValue": 91.873651662,
+                            "weightage": 0.0053859,
+                            "currentValueP": 0.53859,
+                            "investedAmountP": 0.53859,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "Cipla Ltd.",
+                            "currentValue": 104.23412021,
+                            "investedAmount": 12.38435,
+                            "unrealizedGainValue": 91.84977021,
+                            "weightage": 0.0053845,
+                            "currentValueP": 0.53845,
+                            "investedAmountP": 0.53845,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "Timken India Ltd.",
+                            "currentValue": 101.820155164,
+                            "investedAmount": 12.09754,
+                            "unrealizedGainValue": 89.722615164,
+                            "weightage": 0.0052598,
+                            "currentValueP": 0.52598,
+                            "investedAmountP": 0.52598,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "Cyient DLM Ltd.",
+                            "currentValue": 92.530164582,
+                            "investedAmount": 10.99377,
+                            "unrealizedGainValue": 81.536394582,
+                            "weightage": 0.0047799,
+                            "currentValueP": 0.47799,
+                            "investedAmountP": 0.47799,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "Bank of Baroda",
+                            "currentValue": 87.911302834,
+                            "investedAmount": 10.44499,
+                            "unrealizedGainValue": 77.466312834,
+                            "weightage": 0.0045413,
+                            "currentValueP": 0.45413,
+                            "investedAmountP": 0.45413,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "Bajaj Finserv Ltd.",
+                            "currentValue": 65.854592542,
+                            "investedAmount": 7.82437,
+                            "unrealizedGainValue": 58.030222542,
+                            "weightage": 0.0034019,
+                            "currentValueP": 0.34019,
+                            "investedAmountP": 0.34019,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "Siemens Ltd.",
+                            "currentValue": 58.117127996,
+                            "investedAmount": 6.90506,
+                            "unrealizedGainValue": 51.212067996,
+                            "weightage": 0.0030022,
+                            "currentValueP": 0.30022,
+                            "investedAmountP": 0.30022,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "Mankind Pharma Ltd.",
+                            "currentValue": 39.649424276,
+                            "investedAmount": 4.71086,
+                            "unrealizedGainValue": 34.938564276,
+                            "weightage": 0.0020482,
+                            "currentValueP": 0.20482,
+                            "investedAmountP": 0.20482,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        },
+                        {
+                            "name": "Bank of India",
+                            "currentValue": 39.420997752,
+                            "investedAmount": 4.68372,
+                            "unrealizedGainValue": 34.737277752,
+                            "weightage": 0.0020364,
+                            "currentValueP": 0.20364,
+                            "investedAmountP": 0.20364,
+                            "unrealizedGainValueP": 741.66,
+                            "color": "Positive"
+                        }
+                    ]
+                },
+                "text": {
+                    "mcapInsight": {
+                        "insight": "Your portfolio is well diversified across different market capitalization stocks to minimize risk.",
+                        "color": "Positive"
+                    },
+                    "equityInsight": {
+                        "insight": "Your portfolio is well diversified across stocks to minimize risk.",
+                        "color": "Positive"
+                    }
+                }
+            },
+            "debt": {
+                "InvestedValueP": 0.0,
+                "InvestedValue": 0.0,
+                "CurrentValueP": 0.0,
+                "CurrentValue": 0.0,
+                "unrealizedGainValueP": 0.0,
+                "unrealizedGainValue": 0.0,
+                "constituent": [],
+                "debtInstruments": []
+            },
+            "hybrid": {
+                "InvestedValueP": 0.0,
+                "InvestedValue": 0.0,
+                "CurrentValueP": 0.0,
+                "CurrentValue": 0.0,
+                "unrealizedGainValueP": 0.0,
+                "unrealizedGainValue": 0.0,
+                "constituent": []
+            },
+            "fOfandetf": {
+                "InvestedValueP": 0.0,
+                "InvestedValue": 0.0,
+                "CurrentValueP": 0.0,
+                "CurrentValue": 0.0,
+                "unrealizedGainValueP": 0.0,
+                "unrealizedGainValue": 0.0,
+                "constituent": []
+            },
+            "others": {
+                "InvestedValueP": 0.0,
+                "InvestedValue": 0.0,
+                "CurrentValueP": 0.0,
+                "CurrentValue": 0.0,
+                "unrealizedGainValueP": 0.0,
+                "unrealizedGainValue": 0.0,
+                "constituent": []
+            },
+            "portfolio": {
+                "currentValue": 19358.18,
+                "investedValue": 2300.0,
+                "unrealizedGainValue": 17058.18,
+                "dayChange": 87.4,
+                "dayChangeP": 0.45148872466316564,
+                "performance": {
+                    "scorePerformance": {
+                        "text": {},
+                        "data": 0.0,
+                        "dataAvailable": true
+                    },
+                    "scorePortfolio": {
+                        "text": {},
+                        "data": 11.0,
+                        "dataAvailable": true
+                    },
+                    "scoreOperations": {
+                        "text": {},
+                        "data": 12.0,
+                        "dataAvailable": true
+                    },
+                    "scoreRiskReward": {
+                        "text": {},
+                        "data": 2.0,
+                        "dataAvailable": true
+                    },
+                    "scoreChecklist": {
+                        "text": {
+                            "insight": "Portfolio score: 25.00 (Bad category) based on the weighted average of Trendlyne checklist scores.",
+                            "color": "Negative"
+                        },
+                        "data": 25.0,
+                        "dataAvailable": true
+                    },
+                    "morningStarRating": {
+                        "text": {},
+                        "data": 1.0,
+                        "dataAvailable": true
+                    }
+                },
+                "ratio": {
+                    "beta1Y": {
+                        "text": {
+                            "insight": "Portfolio Beta above 1 suggests higher volatility for your mutual funds compared to their benchmarks.",
+                            "color": "Negative"
+                        },
+                        "data": 1.04,
+                        "dataAvailable": true
+                    },
+                    "beta3Y": {
+                        "text": {
+                            "insight": "Portfolio Beta below 1 implies lower volatility compared to the Nifty 50 benchmark.",
+                            "color": "Positive"
+                        },
+                        "data": 1.0,
+                        "dataAvailable": true
+                    },
+                    "beta5Y": {
+                        "text": {
+                            "insight": "Portfolio Beta above 1 suggests higher volatility for your mutual funds compared to their benchmarks.",
+                            "color": "Negative"
+                        },
+                        "data": 1.04,
+                        "dataAvailable": true
+                    },
+                    "alpha1Y": {
+                        "text": {
+                            "insight": "Jensen's Alpha: -2.93. Your mutual fund portfolio lacks alpha (excess return) compared to the market.",
+                            "color": "Negative"
+                        },
+                        "data": -2.93,
+                        "dataAvailable": true
+                    },
+                    "alpha3Y": {
+                        "text": {
+                            "insight": "Jensen's Alpha: -8.41. Your mutual fund portfolio lacks alpha (excess return) compared to the market.",
+                            "color": "Negative"
+                        },
+                        "data": -8.41,
+                        "dataAvailable": true
+                    },
+                    "alpha5Y": {
+                        "text": {
+                            "insight": "Jensen's Alpha: -5.50. Your mutual fund portfolio lacks alpha (excess return) compared to the market.",
+                            "color": "Negative"
+                        },
+                        "data": -5.5,
+                        "dataAvailable": true
+                    },
+                    "stdDev1Y": {
+                        "text": {
+                            "insight": "Portfolio's standard deviation: 12.23. A high deviation implies high volatility and low return consistency.",
+                            "color": "Negative"
+                        },
+                        "data": 12.23,
+                        "dataAvailable": true
+                    },
+                    "stdDev3Y": {
+                        "text": {
+                            "insight": "Portfolio's standard deviation: 14.60. A high deviation implies high volatility and low return consistency.",
+                            "color": "Negative"
+                        },
+                        "data": 14.6,
+                        "dataAvailable": true
+                    },
+                    "stdDev5Y": {
+                        "text": {
+                            "insight": "Portfolio's standard deviation: 20.71. A high deviation implies high volatility and low return consistency.",
+                            "color": "Negative"
+                        },
+                        "data": 20.71,
+                        "dataAvailable": true
+                    },
+                    "sortino1Y": {
+                        "text": {
+                            "insight": "Sortino ratio 1-2: Good for mutual fund portfolio, reflecting favorable return relative to downside risk.",
+                            "color": "Positive"
+                        },
+                        "data": 1.07,
+                        "dataAvailable": true
+                    },
+                    "sortino3Y": {
+                        "text": {
+                            "insight": "Sortino ratio < 1: Inadequate for mutual fund portfolio, reflecting subpar return relative to downside risk.",
+                            "color": "Negative"
+                        },
+                        "data": 0.31,
+                        "dataAvailable": true
+                    },
+                    "sortino5Y": {
+                        "text": {
+                            "insight": "Sortino ratio < 1: Inadequate for mutual fund portfolio, reflecting subpar return relative to downside risk.",
+                            "color": "Negative"
+                        },
+                        "data": 0.77,
+                        "dataAvailable": true
+                    },
+                    "treynor1Y": {
+                        "text": {
+                            "insight": "Portfolio's Treynor's ratio:  8.23, indicating a return of 8.23 units per unit of risk taken.",
+                            "color": "Positive"
+                        },
+                        "data": 8.23,
+                        "dataAvailable": true
+                    },
+                    "treynor3Y": {
+                        "text": {
+                            "insight": "Portfolio's Treynor's ratio:  2.17, indicating a return of 2.17 units per unit of risk taken.",
+                            "color": "Positive"
+                        },
+                        "data": 2.17,
+                        "dataAvailable": true
+                    },
+                    "treynor5Y": {
+                        "text": {
+                            "insight": "Portfolio's Treynor's ratio:  10.11, indicating a return of 10.11 units per unit of risk taken.",
+                            "color": "Positive"
+                        },
+                        "data": 10.11,
+                        "dataAvailable": true
+                    },
+                    "sharpe1Y": {
+                        "text": {
+                            "insight": "Sharpe ratio below 1 signals suboptimal returns for a mutual fund portfolio.",
+                            "color": "Negative"
+                        },
+                        "data": 0.69,
+                        "dataAvailable": true
+                    },
+                    "sharpe3Y": {
+                        "text": {
+                            "insight": "Sharpe ratio below 1 signals suboptimal returns for a mutual fund portfolio.",
+                            "color": "Negative"
+                        },
+                        "data": 0.21,
+                        "dataAvailable": true
+                    },
+                    "sharpe5Y": {
+                        "text": {
+                            "insight": "Sharpe ratio below 1 signals suboptimal returns for a mutual fund portfolio.",
+                            "color": "Negative"
+                        },
+                        "data": 0.57,
+                        "dataAvailable": true
+                    }
+                },
+                "increasedInvestedAmountP": 741.66,
+                "unrealizedGainValueP": 741.66,
+                "investedValueP": 11.881282227978044,
+                "constituents": [
+                    {
+                        "currentValue": 19358.18,
+                        "investedValue": 2300.0,
+                        "unrealizedGainValue": 17058.18,
+                        "dayChange": 87.4,
+                        "investedValueP": 100.0,
+                        "currentValueP": 100.0,
+                        "unrealizedGainValueP": 100.0,
+                        "dayChangeP": 0.45148872466316564,
+                        "color": "Positive",
+                        "name": "Aditya Birla Sun Life Equity Advantage Fund Growth",
+                        "yearHigh5Y": 960.8,
+                        "yearLow5Y": 273.3,
+                        "5YchangeP": 91.1,
+                        "yearHigh1Y": 960.8,
+                        "yearLow1Y": 746.94,
+                        "yearChangeP": 6.77,
+                        "3YchangeP": 13.93,
+                        "yearHigh3Y": 960.8,
+                        "yearLow3Y": 523.09,
+                        "currentPrice": 841.66
+                    }
+                ],
+                "text": {
+                    "quickDailyInsight": {
+                        "insight": "Your portfolio is up 0.5% today, while NIFTY 50 is up 0.2%",
+                        "color": "Positive"
+                    },
+                    "performanceInsight": {
+                        "insight": "Portfolio's unrealized gain: Rs 17.06 K, with a 741.7% ROI.",
+                        "color": "Positive"
+                    },
+                    "fundInsight": {
+                        "insightProfit": {
+                            "insight": "Aditya Birla Sun Life Equity Advantage Fund Growth is the best performing mutual fund with a max profit of Rs 17.10 K.",
+                            "color": "Positive"
+                        },
+                        "insightCurrentP": {
+                            "insight": "A single mutual fund should not constitute more than 40% of your portfolio.",
+                            "color": "Negative"
+                        }
+                    },
+                    "assetInsight": {
+                        "insight": "A single mutual fund category should not constitute more than 60% of your portfolio, to minimize risk",
+                        "color": "Negative"
+                    }
+                }
+            }
+        },
+        "equityReport": {
+            "portfolio": {
+                "currentValue": 2439.0,
+                "investedValue": 2500.0,
+                "unrealizedGainValue": -61.0,
+                "dayChange": 103.0,
+                "dayChangeP": 4.223042230422304,
+                "unrealizedGainValueP": -2.44,
+                "investedValueP": 102.5010250102501,
+                "increasedInvestedAmountP": -2.44,
+                "investingStyle": {
+                    "data": {
+                        "LargeCap": {
+                            "Blend": {
+                                "currentValue": 0,
+                                "currentValueP": 0
+                            },
+                            "Value": {
+                                "currentValue": 0,
+                                "currentValueP": 0
+                            },
+                            "Growth": {
+                                "currentValue": 2439.0,
+                                "currentValueP": 100.0
+                            },
+                            "Other": {
+                                "currentValue": 0,
+                                "currentValueP": 0
+                            }
+                        },
+                        "SmallCap": {
+                            "Blend": {
+                                "currentValue": 0,
+                                "currentValueP": 0
+                            },
+                            "Value": {
+                                "currentValue": 0,
+                                "currentValueP": 0
+                            },
+                            "Growth": {
+                                "currentValue": 0,
+                                "currentValueP": 0
+                            },
+                            "Other": {
+                                "currentValue": 0,
+                                "currentValueP": 0
+                            }
+                        },
+                        "MidCap": {
+                            "Blend": {
+                                "currentValue": 0,
+                                "currentValueP": 0
+                            },
+                            "Value": {
+                                "currentValue": 0,
+                                "currentValueP": 0
+                            },
+                            "Growth": {
+                                "currentValue": 0,
+                                "currentValueP": 0
+                            },
+                            "Other": {
+                                "currentValue": 0,
+                                "currentValueP": 0
+                            }
+                        },
+                        "Others": {
+                            "Blend": {
+                                "currentValue": 0,
+                                "currentValueP": 0
+                            },
+                            "Value": {
+                                "currentValue": 0,
+                                "currentValueP": 0
+                            },
+                            "Growth": {
+                                "currentValue": 0,
+                                "currentValueP": 0
+                            },
+                            "Other": {
+                                "currentValue": 0,
+                                "currentValueP": 0
+                            }
+                        }
+                    },
+                    "text": "Specify your preference for growth, value, or a mix. Growth stocks show high revenue/profit growth, while value stocks have a P/E under 20 or a PEG between 0 and 1."
+                },
+                "liquidityCheck": {
+                    "weightage": 0.0,
+                    "defaulters": [],
+                    "text": {
+                        "insight": "This means that 0.0% of your portfolio is illiquid due to low trading volume on the exchanges. You may not be able to easily sell these stocks because of lack of demand.",
+                        "color": "Negative"
+                    }
+                },
+                "ratio": {
+                    "profitGrowth": {
+                        "Portfolio": 249.4,
+                        "Nifty50": 16.7,
+                        "dataAvailable": true,
+                        "text": {
+                            "caption": "Your portfolio profit growth is 249.40% vs NIFTY 50 profit growth of 16.70%.",
+                            "insight": "Your portfolio's profits grow faster than NIFTY 50.",
+                            "color": "Positive"
+                        }
+                    },
+                    "revenueGrowth": {
+                        "Portfolio": 71.1,
+                        "Nifty50": null,
+                        "dataAvailable": true,
+                        "text": {}
+                    },
+                    "priceToEarnings": {
+                        "Portfolio": 317.2,
+                        "Nifty50": 21.4,
+                        "dataAvailable": true,
+                        "text": {
+                            "caption": "Your Portfolio price to earnings is 317.20 vs NIFTY 50 price to earnings of 21.40.",
+                            "insight": "Your portfolio stocks show a relative overvaluation compared to the benchmark, suggesting anticipated higher earnings growth.",
+                            "color": "Negative"
+                        }
+                    },
+                    "priceToBook": {
+                        "Portfolio": 11.0,
+                        "Nifty50": 3.5,
+                        "dataAvailable": true,
+                        "text": {
+                            "caption": "Your Portfolio price to book is 11.00 vs NIFTY 50 price to earnings of 3.50.",
+                            "insight": "Your portfolio stocks are relatively overvalued compared to the benchmark.",
+                            "color": "Negative"
+                        }
+                    },
+                    "dividendYield": {
+                        "Portfolio": 0.0,
+                        "Nifty50": 1.3,
+                        "dataAvailable": true,
+                        "text": {
+                            "caption": "Your portfolio dividend yield is 0.00% vs NIFTY 50 dividend yield of 1.30%.",
+                            "insight": "Your portfolio's dividend yield is lower than NIFTY 50.",
+                            "color": "Negative"
+                        }
+                    },
+                    "PEtoGrowth": {
+                        "Portfolio": 1.3,
+                        "Nifty50": 1.3,
+                        "dataAvailable": true,
+                        "text": {
+                            "caption": "Your portfolio PE to growth is 1.30 vs NIFTY 50 PE to growth of 1.30.",
+                            "insight": "Portfolio's PEG ratio is lower than NIFTY 50, suggests undervaluation.",
+                            "color": "Positive"
+                        }
+                    },
+                    "beta1M": {
+                        "Portfolio": 1.2,
+                        "Nifty50": 1,
+                        "dataAvailable": true,
+                        "text": {
+                            "caption": "Your Portfolio's Beta is 1.20 vs NIFTY 50's Beta of 1.",
+                            "insight": "Portfolio Beta is higher than 1 implies higher volatility than NIFTY 50 index. ",
+                            "color": "Negative"
+                        }
+                    },
+                    "beta3M": {
+                        "Portfolio": 1.0,
+                        "Nifty50": 1,
+                        "dataAvailable": true,
+                        "text": {
+                            "caption": "Your Portfolio's Beta is 1.00 vs NIFTY 50's Beta of 1.",
+                            "insight": "Portfolio Beta is lower than 1 implies less volatility than NIFTY 50 index.",
+                            "color": "Positive"
+                        }
+                    },
+                    "beta1Y": {
+                        "Portfolio": 0.8,
+                        "Nifty50": 1,
+                        "dataAvailable": true,
+                        "text": {
+                            "caption": "Your Portfolio's Beta is 0.80 vs NIFTY 50's Beta of 1.",
+                            "insight": "Portfolio Beta is lower than 1 implies less volatility than NIFTY 50 index.",
+                            "color": "Positive"
+                        }
+                    },
+                    "var1M": {
+                        "Portfolio": 4.6,
+                        "Nifty50": 1.4,
+                        "dataAvailable": true,
+                        "text": {
+                            "caption": "Your Portfolio's Var is 4.60 vs NIFTY 50's Var of 1.40.",
+                            "insight": "Your portfolio's higher VAR compared to NIFTY 50 signifies increased expected loss over time.",
+                            "color": "Negative"
+                        }
+                    },
+                    "var3M": {
+                        "Portfolio": 4.3,
+                        "Nifty50": 1.4,
+                        "dataAvailable": true,
+                        "text": {
+                            "caption": "Your Portfolio's Var is 4.30 vs NIFTY 50's Var of 1.40.",
+                            "insight": "Your portfolio's higher VAR compared to NIFTY 50 signifies increased expected loss over time.",
+                            "color": "Negative"
+                        }
+                    },
+                    "var1Y": {
+                        "Portfolio": 4.0,
+                        "Nifty50": 1.5,
+                        "dataAvailable": true,
+                        "text": {
+                            "caption": "Your Portfolio's Var is 4.00 vs NIFTY 50's Var of 1.50.",
+                            "insight": "Your portfolio's higher VAR compared to NIFTY 50 signifies increased expected loss over time.",
+                            "color": "Negative"
+                        }
+                    },
+                    "annStd1M": {
+                        "Portfolio": 13.0,
+                        "Nifty50": 4.0,
+                        "dataAvailable": true,
+                        "text": {
+                            "caption": "Your Portfolio's Standard Deviation is 13.00 vs NIFTY 50's Standard deviation of 4.00.",
+                            "insight": "Your portfolio's higher standard deviation implies increased volatility and lower return consistency compared to NIFTY 50.",
+                            "color": "Negative"
+                        }
+                    },
+                    "annStd3M": {
+                        "Portfolio": 20.7,
+                        "Nifty50": 6.7,
+                        "dataAvailable": true,
+                        "text": {
+                            "caption": "Your Portfolio's Standard Deviation is 20.70 vs NIFTY 50's Standard deviation of 6.70.",
+                            "insight": "Your portfolio's higher standard deviation implies increased volatility and lower return consistency compared to NIFTY 50.",
+                            "color": "Negative"
+                        }
+                    },
+                    "annStd1Y": {
+                        "Portfolio": 38.8,
+                        "Nifty50": 14.1,
+                        "dataAvailable": true,
+                        "text": {
+                            "caption": "Your Portfolio's Standard Deviation is 38.80 vs NIFTY 50's Standard deviation of 14.10.",
+                            "insight": "Your portfolio's higher standard deviation implies increased volatility and lower return consistency compared to NIFTY 50.",
+                            "color": "Negative"
+                        }
+                    },
+                    "sharpe1M": {
+                        "Portfolio": -0.5,
+                        "Nifty50": -0.9,
+                        "dataAvailable": true,
+                        "text": {
+                            "caption": "Your Portfolio's Sharpe ratio is -0.50 vs NIFTY 50's Sharpe ratio of -0.90.",
+                            "insight": "Your portfolio's higher Sharpe ratio than NIFTY 50 signifies superior risk-adjusted returns.",
+                            "color": "Positive"
+                        }
+                    },
+                    "sharpe3M": {
+                        "Portfolio": -0.5,
+                        "Nifty50": -1.0,
+                        "dataAvailable": true,
+                        "text": {
+                            "caption": "Your Portfolio's Sharpe ratio is -0.50 vs NIFTY 50's Sharpe ratio of -1.00.",
+                            "insight": "Your portfolio's higher Sharpe ratio than NIFTY 50 signifies superior risk-adjusted returns.",
+                            "color": "Positive"
+                        }
+                    },
+                    "sharpe1Y": {
+                        "Portfolio": 2.0,
+                        "Nifty50": -0.1,
+                        "dataAvailable": true,
+                        "text": {
+                            "caption": "Your Portfolio's Sharpe ratio is 2.00 vs NIFTY 50's Sharpe ratio of -0.10.",
+                            "insight": "Your portfolio's higher Sharpe ratio than NIFTY 50 signifies superior risk-adjusted returns.",
+                            "color": "Positive"
+                        }
+                    },
+                    "trendlyneScore": {
+                        "Portfolio": 54.6,
+                        "Nifty50": null,
+                        "dataAvailable": true,
+                        "text": {
+                            "insight": "Portfolio score: 54.60 (Medium category), based on weighted average Trendlyne stock scores.",
+                            "color": "Neutral"
+                        }
+                    }
+                },
+                "labels": {},
+                "marketAllocation": {
+                    "sector": {
+                        "text": {
+                            "insightProfit": {
+                                "caption": "Software & Services is the worst performing sector with a max loss of Rs 61.0.",
+                                "color": "Negative"
+                            },
+                            "insightProfitP": {},
+                            "insightCurrentP": {
+                                "insight": "A single sector should not constitute more than 50% of your portfolio.",
+                                "color": "Negative"
+                            }
+                        },
+                        "data": [
+                            {
+                                "currentValue": 2439.0,
+                                "investedValue": 2500.0,
+                                "unrealizedGainValue": -61.0,
+                                "dayChange": 103.0,
+                                "investedValueP": 100.0,
+                                "currentValueP": 100.0,
+                                "unrealizedGainValueP": 100.0,
+                                "dayChangeP": 4.223042230422304,
+                                "color": "Negative",
+                                "name": "Software & Services",
+                                "unrealizedGainValuePercent": -2.44
+                            }
+                        ]
+                    },
+                    "equity": {
+                        "text": {
+                            "insightProfit": {
+                                "caption": "ZOMATO is the worst performing stock with a max loss of Rs 61.0.",
+                                "color": "Negative"
+                            },
+                            "insightProfitP": {},
+                            "insightCurrentP": {
+                                "insight": "Cap each stock at 10% in your portfolio.",
+                                "color": "Negative"
+                            }
+                        },
+                        "data": [
+                            {
+                                "currentValue": 2439.0,
+                                "investedValue": 2500.0,
+                                "unrealizedGainValue": -61.0,
+                                "dayChange": 103.0,
+                                "investedValueP": 100.0,
+                                "currentValueP": 100.0,
+                                "unrealizedGainValueP": 100.0,
+                                "dayChangeP": 4.41,
+                                "color": "Negative",
+                                "name": "ZOMATO",
+                                "unrealizedGainValuePercent": -2.44,
+                                "yearLow": 121.6,
+                                "yearHigh": 304.7,
+                                "yearClose": 139.55,
+                                "yearChangeP": 74.78,
+                                "1monthLow": 226.2,
+                                "1monthHigh": 303.45,
+                                "1monthClose": 288.25,
+                                "imonthChangeP": -15.39,
+                                "dayLow": 235.0,
+                                "dayHigh": 246.0,
+                                "currentPrice": 243.9,
+                                "fullName": "Zomato Ltd.",
+                                "stockCode": "ZOMATO",
+                                "trendlyneScore": 54.56,
+                                "priceToEarnings": 317.21464988034546,
+                                "priceToBook": 10.993072426273399,
+                                "dividendYield": 0.0,
+                                "PEtoGrowth": 1.2721402667206922,
+                                "beta1M": 1.22,
+                                "beta3M": 0.99,
+                                "beta1Y": 0.84,
+                                "var1M": 4.55919,
+                                "var3M": 4.25376,
+                                "var1Y": 4.03521,
+                                "annStd1M": 12.99969,
+                                "annStd3M": 20.68696,
+                                "annStd1Y": 38.78561,
+                                "sharpe1M": -0.53101,
+                                "sharpe3M": -0.46237,
+                                "sharpe1Y": 1.99702
+                            }
+                        ]
+                    },
+                    "marketCap": {
+                        "text": {
+                            "insightProfit": {},
+                            "insightProfitP": {
+                                "caption": "100.00% of your unrealized gains is from Large Cap.",
+                                "color": "Positive"
+                            },
+                            "insightCurrentP": {
+                                "insight": "Your portfolio is well diversified across market cap.",
+                                "color": "Positive"
+                            }
+                        },
+                        "data": [
+                            {
+                                "currentValue": 2439.0,
+                                "investedValue": 2500.0,
+                                "unrealizedGainValue": -61.0,
+                                "dayChange": 103.0,
+                                "investedValueP": 100.0,
+                                "currentValueP": 100.0,
+                                "unrealizedGainValueP": 100.0,
+                                "dayChangeP": 4.223042230422304,
+                                "color": "Negative",
+                                "name": "Large Cap",
+                                "unrealizedGainValuePercent": -2.44
+                            }
+                        ]
+                    }
+                },
+                "actionableInsights": [
+                    {
+                        "key": "score_insight",
+                        "insight": "All stocks in portfolio have average or high Trendlyne scores",
+                        "color": "Positive",
+                        "data": {
+                            "Good": [],
+                            "Medium": [
+                                {
+                                    "currentValue": 2439.0,
+                                    "investedValue": 2500.0,
+                                    "unrealizedGainValue": -61.0,
+                                    "investedValueP": 100.0,
+                                    "currentValueP": 100.0,
+                                    "unrealizedGainValueP": 100.0,
+                                    "stock": "ZOMATO",
+                                    "score": "Medium",
+                                    "illiquid_check": false,
+                                    "asm_gsm_check": false,
+                                    "durability": 80.0,
+                                    "valuation": 10.33333,
+                                    "momentum": 47.91,
+                                    "asm_gsm": {
+                                        "url": "",
+                                        "lt": "",
+                                        "st": "",
+                                        "color": "",
+                                        "text": ""
+                                    },
+                                    "trendlyneScore": 54.56
+                                }
+                            ],
+                            "Bad": []
+                        }
+                    },
+                    {
+                        "key": "overdiversification_insight",
+                        "insight": "Portfolio is well diversified across stocks to minimize risk.",
+                        "color": "Positive"
+                    },
+                    {
+                        "key": "sector_underdiversification_insight",
+                        "insight": "Portfolio is heavily concentrated in a few sectors,                     increasing risk. Diversifying across more sectors can improve stability.",
+                        "color": "Negative",
+                        "data": [
+                            {
+                                "currentValue": 2439.0,
+                                "investedValue": 2500.0,
+                                "unrealizedGainValue": -61.0,
+                                "investedValueP": 100.0,
+                                "currentValueP": 100.0,
+                                "unrealizedGainValueP": 100.0,
+                                "sector": "Software & Services"
+                            }
+                        ]
+                    },
+                    {
+                        "key": "stock_underdiversification_insight",
+                        "insight": "Portfolio is under-diversified, increasing risk exposure.                     Adding more stocks can enhance stability and reduce volatility",
+                        "color": "Negative",
+                        "data": [
+                            {
+                                "currentValue": 2439.0,
+                                "investedValue": 2500.0,
+                                "unrealizedGainValue": -61.0,
+                                "investedValueP": 100.0,
+                                "currentValueP": 100.0,
+                                "unrealizedGainValueP": 100.0,
+                                "stock": "ZOMATO",
+                                "score": "Medium",
+                                "illiquid_check": false,
+                                "asm_gsm_check": false,
+                                "durability": 80.0,
+                                "valuation": 10.33333,
+                                "momentum": 47.91,
+                                "asm_gsm": {
+                                    "url": "",
+                                    "lt": "",
+                                    "st": "",
+                                    "color": "",
+                                    "text": ""
+                                },
+                                "trendlyneScore": 54.56
+                            }
+                        ]
+                    },
+                    {
+                        "key": "asm_gsm_insight",
+                        "insight": "None of your stocks in portfolio are under ASM/GSM framework.",
+                        "color": "Positive"
+                    },
+                    {
+                        "key": "illiquid_stock_insight",
+                        "insight": "None of your stocks in your portfolio is illiquid",
+                        "color": "Positive"
+                    }
+                ],
+                "text": {
+                    "quickDailyInsight": {
+                        "insight": "Your portfolio is up 4.2% today, while NIFTY 50 is up 0.2%",
+                        "color": "Positive"
+                    },
+                    "performanceInsight": {
+                        "insight": "Portfolio's unrealized loss: Rs 61.0, with a -2.4% ROI.",
+                        "color": "Negative"
+                    }
+                },
+                "events": [
+                    {
+                        "stock": {
+                            "NSEcode": "ZOMATO",
+                            "current_url": "/equity/589490/ZOMATO/zomato-ltd/",
+                            "stock_name": "Zomato Ltd.",
+                            "ltp": 243.9
+                        },
+                        "eventType": "BoardMeet",
+                        "uiDate": "2025-01-20",
+                        "uiDateLabel": "Board Meet Date",
+                        "purpose": "Quarterly Results",
+                        "remarks": ""
+                    }
+                ]
+            }
+        },
+        "consolidatedReport": {
+            "currentValue": 22076.4,
+            "investedValue": 15150.0,
+            "unrealizedGainValue": 6926.4,
+            "dayChange": 190.4,
+            "unrealizedGainValueP": 45.71881188118812,
+            "investedValueP": 68.62531934554546,
+            "dayChangeP": 0.8624594589697595,
+            "text": {
+                "quickDailyInsight": {
+                    "insight": "Your portfolio is up 0.9% today, while NIFTY 50 is up 0.2%",
+                    "color": "Positive"
+                },
+                "performanceInsight": {
+                    "insight": "Portfolio's unrealized gain: Rs 6.93 K, with a 45.7% ROI.",
+                    "color": "Positive"
+                }
+            },
+            "equityAllocation": {
+                "text": "Your portfolio is well diversified across stocks to minimize risk",
+                "data": [
+                    {
+                        "name": "Zomato Ltd.",
+                        "currentValue": 2439.0,
+                        "unrealizedGainValue": -61.0,
+                        "investedAmount": 2500.0,
+                        "currentValueP": 11.04799695602544,
+                        "unrealizedGainValueP": -2.44
+                    },
+                    {
+                        "name": "ICICI Bank Ltd.",
+                        "currentValue": 827.66866499,
+                        "unrealizedGainValue": 729.33101499,
+                        "investedAmount": 98.33765,
+                        "currentValueP": 3.749110656583501,
+                        "unrealizedGainValueP": 741.66
+                    },
+                    {
+                        "name": "Infosys Ltd.",
+                        "currentValue": 820.89330199,
+                        "unrealizedGainValue": 723.36065199,
+                        "investedAmount": 97.53265,
+                        "currentValueP": 3.718420131860267,
+                        "unrealizedGainValueP": 741.66
+                    },
+                    {
+                        "name": "HDFC Bank Ltd.",
+                        "currentValue": 680.341300282,
+                        "unrealizedGainValue": 599.508030282,
+                        "investedAmount": 80.83327,
+                        "currentValueP": 3.081758349558805,
+                        "unrealizedGainValueP": 741.66
+                    },
+                    {
+                        "name": "Fortis Healthcare Ltd.",
+                        "currentValue": 534.48902889,
+                        "unrealizedGainValue": 470.98487889,
+                        "investedAmount": 63.50415,
+                        "currentValueP": 2.4210878082024245,
+                        "unrealizedGainValueP": 741.66
+                    },
+                    {
+                        "name": "Reliance Industries Ltd.",
+                        "currentValue": 483.863516554,
+                        "unrealizedGainValue": 426.374326554,
+                        "investedAmount": 57.48919,
+                        "currentValueP": 2.191768207470421,
+                        "unrealizedGainValueP": 741.66
+                    },
+                    {
+                        "name": "JK Cement Ltd.",
+                        "currentValue": 439.777197422,
+                        "unrealizedGainValue": 387.526027422,
+                        "investedAmount": 52.25117,
+                        "currentValueP": 1.992069347457013,
+                        "unrealizedGainValueP": 741.66
+                    },
+                    {
+                        "name": "Larsen & Toubro Ltd.",
+                        "currentValue": 425.496668036,
+                        "unrealizedGainValue": 374.942208036,
+                        "investedAmount": 50.55446,
+                        "currentValueP": 1.9273824900617855,
+                        "unrealizedGainValueP": 741.66
+                    },
+                    {
+                        "name": "Hindustan Petroleum Corporation Ltd.",
+                        "currentValue": 387.030028558,
+                        "unrealizedGainValue": 341.045898558,
+                        "investedAmount": 45.98413,
+                        "currentValueP": 1.7531392281259626,
+                        "unrealizedGainValueP": 741.66
+                    },
+                    {
+                        "name": "State Bank of India",
+                        "currentValue": 376.475948822,
+                        "unrealizedGainValue": 331.745778822,
+                        "investedAmount": 44.73017,
+                        "currentValueP": 1.7053321593285138,
+                        "unrealizedGainValueP": 741.66
+                    },
+                    {
+                        "name": "UNO Minda Ltd.",
+                        "currentValue": 348.424010184,
+                        "unrealizedGainValue": 307.026770184,
+                        "investedAmount": 41.39724,
+                        "currentValueP": 1.578264618252976,
+                        "unrealizedGainValueP": 741.66
+                    },
+                    {
+                        "name": "Axis Bank Ltd.",
+                        "currentValue": 335.504360852,
+                        "unrealizedGainValue": 295.642140852,
+                        "investedAmount": 39.86222,
+                        "currentValueP": 1.519742171966444,
+                        "unrealizedGainValueP": 741.66
+                    },
+                    {
+                        "name": "Bharti Airtel Ltd.",
+                        "currentValue": 324.011409386,
+                        "unrealizedGainValue": 285.514699386,
+                        "investedAmount": 38.49671,
+                        "currentValueP": 1.4676822733144896,
+                        "unrealizedGainValueP": 741.66
+                    },
+                    {
+                        "name": "Voltas Ltd.",
+                        "currentValue": 323.935912484,
+                        "unrealizedGainValue": 285.448172484,
+                        "investedAmount": 38.48774,
+                        "currentValueP": 1.4673402931818593,
+                        "unrealizedGainValueP": 741.66
+                    },
+                    {
+                        "name": "Max Financial Services Ltd.",
+                        "currentValue": 323.40743417,
+                        "unrealizedGainValue": 284.98248417,
+                        "investedAmount": 38.42495,
+                        "currentValueP": 1.4649464322534471,
+                        "unrealizedGainValueP": 741.66
+                    },
+                    {
+                        "name": "Trent Ltd.",
+                        "currentValue": 311.922225976,
+                        "unrealizedGainValue": 274.861865976,
+                        "investedAmount": 37.06036,
+                        "currentValueP": 1.412921608486891,
+                        "unrealizedGainValueP": 741.66
+                    },
+                    {
+                        "name": "Info Edge (India) Ltd.",
+                        "currentValue": 305.932805084,
+                        "unrealizedGainValue": 269.584065084,
+                        "investedAmount": 36.34874,
+                        "currentValueP": 1.3857911846315523,
+                        "unrealizedGainValueP": 741.66
+                    },
+                    {
+                        "name": "Gokaldas Exports Ltd.",
+                        "currentValue": 298.073384004,
+                        "unrealizedGainValue": 262.658444004,
+                        "investedAmount": 35.41494,
+                        "currentValueP": 1.350190175952601,
+                        "unrealizedGainValueP": 741.66
+                    },
+                    {
+                        "name": "Ajanta Pharma Ltd.",
+                        "currentValue": 295.001240838,
+                        "unrealizedGainValue": 259.951310838,
+                        "investedAmount": 35.04993,
+                        "currentValueP": 1.3362742151709517,
+                        "unrealizedGainValueP": 741.66
+                    },
+                    {
+                        "name": "Jindal Steel & Power Ltd.",
+                        "currentValue": 286.468155094,
+                        "unrealizedGainValue": 252.432065094,
+                        "investedAmount": 34.03609,
+                        "currentValueP": 1.2976216914623762,
+                        "unrealizedGainValueP": 741.66
+                    },
+                    {
+                        "name": "Chalet Hotels Ltd.",
+                        "currentValue": 284.600090724,
+                        "unrealizedGainValue": 250.785950724,
+                        "investedAmount": 33.81414,
+                        "currentValueP": 1.289159875360113,
+                        "unrealizedGainValueP": 741.66
+                    },
+                    {
+                        "name": "Coforge Ltd.",
+                        "currentValue": 282.73589799,
+                        "unrealizedGainValue": 249.14324799,
+                        "investedAmount": 33.59265,
+                        "currentValueP": 1.280715596700549,
+                        "unrealizedGainValueP": 741.66
+                    },
+                    {
+                        "name": "Welspun Corp Ltd.",
+                        "currentValue": 279.460493934,
+                        "unrealizedGainValue": 246.257003934,
+                        "investedAmount": 33.20349,
+                        "currentValueP": 1.2658789201772027,
+                        "unrealizedGainValueP": 741.66
+                    },
+                    {
+                        "name": "Jubilant Foodworks Ltd.",
+                        "currentValue": 279.050100518,
+                        "unrealizedGainValue": 245.895370518,
+                        "investedAmount": 33.15473,
+                        "currentValueP": 1.2640199512511099,
+                        "unrealizedGainValueP": 741.66
+                    },
+                    {
+                        "name": "LIC Housing Finance Ltd.",
+                        "currentValue": 277.029106526,
+                        "unrealizedGainValue": 244.114496526,
+                        "investedAmount": 32.91461,
+                        "currentValueP": 1.2548654061622366,
+                        "unrealizedGainValueP": 741.66
+                    },
+                    {
+                        "name": "Sona BLW Precision Forgings Ltd.",
+                        "currentValue": 276.775514368,
+                        "unrealizedGainValue": 243.891034368,
+                        "investedAmount": 32.88448,
+                        "currentValueP": 1.2537167036654526,
+                        "unrealizedGainValueP": 741.66
+                    },
+                    {
+                        "name": "Hindustan Aeronautics Ltd.",
+                        "currentValue": 273.13424071,
+                        "unrealizedGainValue": 240.68239071,
+                        "investedAmount": 32.45185,
+                        "currentValueP": 1.2372227388070518,
+                        "unrealizedGainValueP": 741.66
+                    },
+                    {
+                        "name": "InterGlobe Aviation Ltd.",
+                        "currentValue": 272.884520188,
+                        "unrealizedGainValue": 240.462340188,
+                        "investedAmount": 32.42218,
+                        "currentValueP": 1.236091573752967,
+                        "unrealizedGainValueP": 741.66
+                    },
+                    {
+                        "name": "Container Corporation of India Ltd.",
+                        "currentValue": 263.031206568,
+                        "unrealizedGainValue": 231.779726568,
+                        "investedAmount": 31.25148,
+                        "currentValueP": 1.1914587820840354,
+                        "unrealizedGainValueP": 741.66
+                    },
+                    {
+                        "name": "Schaeffler India Ltd.",
+                        "currentValue": 262.25494355,
+                        "unrealizedGainValue": 231.09569355,
+                        "investedAmount": 31.15925,
+                        "currentValueP": 1.1879425248228879,
+                        "unrealizedGainValueP": 741.66
+                    },
+                    {
+                        "name": "Bharat Electronics Ltd.",
+                        "currentValue": 261.745823416,
+                        "unrealizedGainValue": 230.647063416,
+                        "investedAmount": 31.09876,
+                        "currentValueP": 1.1856363511079706,
+                        "unrealizedGainValueP": 741.66
+                    },
+                    {
+                        "name": "APL Apollo Tubes Ltd.",
+                        "currentValue": 257.858700872,
+                        "unrealizedGainValue": 227.221780872,
+                        "investedAmount": 30.63692,
+                        "currentValueP": 1.1680287586381837,
+                        "unrealizedGainValueP": 741.66
+                    },
+                    {
+                        "name": "Samvardhana Motherson International Ltd.",
+                        "currentValue": 250.750377176,
+                        "unrealizedGainValue": 220.958017176,
+                        "investedAmount": 29.79236,
+                        "currentValueP": 1.1358300138428368,
+                        "unrealizedGainValueP": 741.66
+                    },
+                    {
+                        "name": "Tube Investments of India Ltd.",
+                        "currentValue": 247.974414164,
+                        "unrealizedGainValue": 218.511874164,
+                        "investedAmount": 29.46254,
+                        "currentValueP": 1.1232556674276604,
+                        "unrealizedGainValueP": 741.66
+                    },
+                    {
+                        "name": "Au Small Finance Bank Ltd.",
+                        "currentValue": 246.698710102,
+                        "unrealizedGainValue": 217.387740102,
+                        "investedAmount": 29.31097,
+                        "currentValueP": 1.117477080058343,
+                        "unrealizedGainValueP": 741.66
+                    },
+                    {
+                        "name": "Ashok Leyland Ltd.",
+                        "currentValue": 238.08625582,
+                        "unrealizedGainValue": 209.79855582,
+                        "investedAmount": 28.2877,
+                        "currentValueP": 1.078465038774438,
+                        "unrealizedGainValueP": 741.66
+                    },
+                    {
+                        "name": "REC Ltd.",
+                        "currentValue": 237.952684378,
+                        "unrealizedGainValue": 209.680854378,
+                        "investedAmount": 28.27183,
+                        "currentValueP": 1.0778599970013227,
+                        "unrealizedGainValueP": 741.66
+                    },
+                    {
+                        "name": "Shriram Finance Ltd.",
+                        "currentValue": 230.368149454,
+                        "unrealizedGainValue": 202.997459454,
+                        "investedAmount": 27.37069,
+                        "currentValueP": 1.0435041467539998,
+                        "unrealizedGainValueP": 741.66
+                    },
+                    {
+                        "name": "FSN E-Commerce Ventures Ltd.",
+                        "currentValue": 221.120746868,
+                        "unrealizedGainValue": 194.848766868,
+                        "investedAmount": 26.27198,
+                        "currentValueP": 1.0016159648674603,
+                        "unrealizedGainValueP": 741.66
+                    },
+                    {
+                        "name": "TVS Motor Company Ltd.",
+                        "currentValue": 219.291398858,
+                        "unrealizedGainValue": 193.236768858,
+                        "investedAmount": 26.05463,
+                        "currentValueP": 0.9933295231921871,
+                        "unrealizedGainValueP": 741.66
+                    },
+                    {
+                        "name": "United Breweries Ltd.",
+                        "currentValue": 217.41171958,
+                        "unrealizedGainValue": 191.58041958,
+                        "investedAmount": 25.8313,
+                        "currentValueP": 0.9848150947618272,
+                        "unrealizedGainValueP": 741.66
+                    },
+                    {
+                        "name": "ABB India Ltd.",
+                        "currentValue": 214.4886344,
+                        "unrealizedGainValue": 189.0046344,
+                        "investedAmount": 25.484,
+                        "currentValueP": 0.9715743255240891,
+                        "unrealizedGainValueP": 741.66
+                    },
+                    {
+                        "name": "Bharat Forge Ltd.",
+                        "currentValue": 213.64655357,
+                        "unrealizedGainValue": 188.26260357,
+                        "investedAmount": 25.38395,
+                        "currentValueP": 0.9677599317370585,
+                        "unrealizedGainValueP": 741.66
+                    },
+                    {
+                        "name": "IRB Infrastructure Developers Ltd.",
+                        "currentValue": 206.859575662,
+                        "unrealizedGainValue": 182.282005662,
+                        "investedAmount": 24.57757,
+                        "currentValueP": 0.9370167946857277,
+                        "unrealizedGainValueP": 741.66
+                    },
+                    {
+                        "name": "Phoenix Mills Ltd.",
+                        "currentValue": 204.795993674,
+                        "unrealizedGainValue": 180.463603674,
+                        "investedAmount": 24.33239,
+                        "currentValueP": 0.9276693377271656,
+                        "unrealizedGainValueP": 741.66
+                    },
+                    {
+                        "name": "Cholamandalam Investment & Finance Company Ltd.",
+                        "currentValue": 200.357163,
+                        "unrealizedGainValue": 176.552163,
+                        "investedAmount": 23.805,
+                        "currentValueP": 0.9075626596727727,
+                        "unrealizedGainValueP": 741.66
+                    },
+                    {
+                        "name": "Samhi Hotels Ltd.",
+                        "currentValue": 200.150030474,
+                        "unrealizedGainValue": 176.369640474,
+                        "investedAmount": 23.78039,
+                        "currentValueP": 0.9066244064883767,
+                        "unrealizedGainValueP": 741.66
+                    },
+                    {
+                        "name": "Welspun Living Ltd.",
+                        "currentValue": 197.556034354,
+                        "unrealizedGainValue": 174.083844354,
+                        "investedAmount": 23.47219,
+                        "currentValueP": 0.894874319880053,
+                        "unrealizedGainValueP": 741.66
+                    },
+                    {
+                        "name": "Sunteck Realty Ltd.",
+                        "currentValue": 195.842835424,
+                        "unrealizedGainValue": 172.574195424,
+                        "investedAmount": 23.26864,
+                        "currentValueP": 0.8871140014857495,
+                        "unrealizedGainValueP": 741.66
+                    },
+                    {
+                        "name": "Go Fashion (India) Ltd.",
+                        "currentValue": 188.418973394,
+                        "unrealizedGainValue": 166.032383394,
+                        "investedAmount": 22.38659,
+                        "currentValueP": 0.8534859551104347,
+                        "unrealizedGainValueP": 741.66
+                    },
+                    {
+                        "name": "NTPC Ltd.",
+                        "currentValue": 188.273787044,
+                        "unrealizedGainValue": 165.904447044,
+                        "investedAmount": 22.36934,
+                        "currentValueP": 0.8528283010092225,
+                        "unrealizedGainValueP": 741.66
+                    },
+                    {
+                        "name": "Hindalco Industries Ltd.",
+                        "currentValue": 185.14163352,
+                        "unrealizedGainValue": 163.14443352,
+                        "investedAmount": 21.9972,
+                        "currentValueP": 0.838640509865739,
+                        "unrealizedGainValueP": 741.66
+                    },
+                    {
+                        "name": "GAIL (India) Ltd.",
+                        "currentValue": 184.005308354,
+                        "unrealizedGainValue": 162.143118354,
+                        "investedAmount": 21.86219,
+                        "currentValueP": 0.8334932704335852,
+                        "unrealizedGainValueP": 741.66
+                    },
+                    {
+                        "name": "Titan Company Ltd.",
+                        "currentValue": 183.647182024,
+                        "unrealizedGainValue": 161.827542024,
+                        "investedAmount": 21.81964,
+                        "currentValueP": 0.8318710569839285,
+                        "unrealizedGainValueP": 741.66
+                    },
+                    {
+                        "name": "Navin Fluorine International Ltd.",
+                        "currentValue": 175.708392406,
+                        "unrealizedGainValue": 154.831982406,
+                        "investedAmount": 20.87641,
+                        "currentValueP": 0.7959105307296479,
+                        "unrealizedGainValueP": 741.66
+                    },
+                    {
+                        "name": "Bajaj Finance Ltd.",
+                        "currentValue": 173.393154078,
+                        "unrealizedGainValue": 152.791824078,
+                        "investedAmount": 20.60133,
+                        "currentValueP": 0.7854231399956515,
+                        "unrealizedGainValueP": 741.66
+                    },
+                    {
+                        "name": "Cello World Ltd.",
+                        "currentValue": 170.626870156,
+                        "unrealizedGainValue": 150.354210156,
+                        "investedAmount": 20.27266,
+                        "currentValueP": 0.7728926371872226,
+                        "unrealizedGainValueP": 741.66
+                    },
+                    {
+                        "name": "KPR Mill Ltd.",
+                        "currentValue": 168.011580038,
+                        "unrealizedGainValue": 148.049650038,
+                        "investedAmount": 19.96193,
+                        "currentValueP": 0.7610460946440543,
+                        "unrealizedGainValueP": 741.66
+                    },
+                    {
+                        "name": "Sundram Fasteners Ltd.",
+                        "currentValue": 167.502459904,
+                        "unrealizedGainValue": 147.601019904,
+                        "investedAmount": 19.90144,
+                        "currentValueP": 0.758739920929137,
+                        "unrealizedGainValueP": 741.66
+                    },
+                    {
+                        "name": "IndusInd Bank Ltd.",
+                        "currentValue": 155.23324542,
+                        "unrealizedGainValue": 136.78954542,
+                        "investedAmount": 18.4437,
+                        "currentValueP": 0.7031637650160352,
+                        "unrealizedGainValueP": 741.66
+                    },
+                    {
+                        "name": "NTPC Green Energy Ltd.",
+                        "currentValue": 150.227220072,
+                        "unrealizedGainValue": 132.378300072,
+                        "investedAmount": 17.84892,
+                        "currentValueP": 0.6804878516062401,
+                        "unrealizedGainValueP": 741.66
+                    },
+                    {
+                        "name": "Swiggy Ltd.",
+                        "currentValue": 148.018451734,
+                        "unrealizedGainValue": 130.431961734,
+                        "investedAmount": 17.58649,
+                        "currentValueP": 0.670482740546466,
+                        "unrealizedGainValueP": 741.66
+                    },
+                    {
+                        "name": "KEC International Ltd.",
+                        "currentValue": 147.772602848,
+                        "unrealizedGainValue": 130.215322848,
+                        "investedAmount": 17.55728,
+                        "currentValueP": 0.66936911293508,
+                        "unrealizedGainValueP": 741.66
+                    },
+                    {
+                        "name": "JSW Infrastructure Ltd.",
+                        "currentValue": 146.252985718,
+                        "unrealizedGainValue": 128.876255718,
+                        "investedAmount": 17.37673,
+                        "currentValueP": 0.6624856666757261,
+                        "unrealizedGainValueP": 741.66
+                    },
+                    {
+                        "name": "Sun Pharmaceutical Industries Ltd.",
+                        "currentValue": 144.936629478,
+                        "unrealizedGainValue": 127.716299478,
+                        "investedAmount": 17.22033,
+                        "currentValueP": 0.6565229361580692,
+                        "unrealizedGainValueP": 741.66
+                    },
+                    {
+                        "name": "Varun Beverages Ltd.",
+                        "currentValue": 131.101338232,
+                        "unrealizedGainValue": 115.524818232,
+                        "investedAmount": 15.57652,
+                        "currentValueP": 0.5938528846732257,
+                        "unrealizedGainValueP": 741.66
+                    },
+                    {
+                        "name": "Power Mech Projects Ltd.",
+                        "currentValue": 129.424919844,
+                        "unrealizedGainValue": 114.047579844,
+                        "investedAmount": 15.37734,
+                        "currentValueP": 0.5862591719845627,
+                        "unrealizedGainValueP": 741.66
+                    },
+                    {
+                        "name": "Star Health and Allied Insurance Company Ltd.",
+                        "currentValue": 126.23469178,
+                        "unrealizedGainValue": 111.23639178,
+                        "investedAmount": 14.9983,
+                        "currentValueP": 0.5718083192005943,
+                        "unrealizedGainValueP": 741.66
+                    },
+                    {
+                        "name": "Emcure Pharmaceuticals Ltd.",
+                        "currentValue": 125.863014724,
+                        "unrealizedGainValue": 110.908874724,
+                        "investedAmount": 14.95414,
+                        "currentValueP": 0.5701247247014912,
+                        "unrealizedGainValueP": 741.66
+                    },
+                    {
+                        "name": "Kalpataru Projects International Ltd.",
+                        "currentValue": 122.037838356,
+                        "unrealizedGainValue": 107.538178356,
+                        "investedAmount": 14.49966,
+                        "currentValueP": 0.5527977313148883,
+                        "unrealizedGainValueP": 741.66
+                    },
+                    {
+                        "name": "Gujarat Gas Ltd.",
+                        "currentValue": 104.261221662,
+                        "unrealizedGainValue": 91.873651662,
+                        "investedAmount": 12.38757,
+                        "currentValueP": 0.4722745631624721,
+                        "unrealizedGainValueP": 741.66
+                    },
+                    {
+                        "name": "Cipla Ltd.",
+                        "currentValue": 104.23412021,
+                        "unrealizedGainValue": 91.84977021,
+                        "investedAmount": 12.38435,
+                        "currentValueP": 0.4721518010635792,
+                        "unrealizedGainValueP": 741.66
+                    },
+                    {
+                        "name": "Timken India Ltd.",
+                        "currentValue": 101.820155164,
+                        "unrealizedGainValue": 89.722615164,
+                        "investedAmount": 12.09754,
+                        "currentValueP": 0.46121720554075846,
+                        "unrealizedGainValueP": 741.66
+                    },
+                    {
+                        "name": "Cyient DLM Ltd.",
+                        "currentValue": 92.530164582,
+                        "unrealizedGainValue": 81.536394582,
+                        "investedAmount": 10.99377,
+                        "currentValueP": 0.4191361117845301,
+                        "unrealizedGainValueP": 741.66
+                    },
+                    {
+                        "name": "Bank of Baroda",
+                        "currentValue": 87.911302834,
+                        "unrealizedGainValue": 77.466312834,
+                        "investedAmount": 10.44499,
+                        "currentValueP": 0.3982139426446341,
+                        "unrealizedGainValueP": 741.66
+                    },
+                    {
+                        "name": "Bajaj Finserv Ltd.",
+                        "currentValue": 65.854592542,
+                        "unrealizedGainValue": 58.030222542,
+                        "investedAmount": 7.82437,
+                        "currentValueP": 0.29830313158848365,
+                        "unrealizedGainValueP": 741.66
+                    },
+                    {
+                        "name": "Siemens Ltd.",
+                        "currentValue": 58.117127996,
+                        "unrealizedGainValue": 51.212067996,
+                        "investedAmount": 6.90506,
+                        "currentValueP": 0.2632545523545506,
+                        "unrealizedGainValueP": 741.66
+                    },
+                    {
+                        "name": "Mankind Pharma Ltd.",
+                        "currentValue": 39.649424276,
+                        "unrealizedGainValue": 34.938564276,
+                        "investedAmount": 4.71086,
+                        "currentValueP": 0.17960095068036455,
+                        "unrealizedGainValueP": 741.66
+                    },
+                    {
+                        "name": "Bank of India",
+                        "currentValue": 39.420997752,
+                        "unrealizedGainValue": 34.737277752,
+                        "investedAmount": 4.68372,
+                        "currentValueP": 0.1785662415611241,
+                        "unrealizedGainValueP": 741.66
+                    }
+                ]
+            },
+            "portfolioAllocation": {
+                "data": [
+                    {
+                        "name": "MF-equity",
+                        "currentValue": 19358.18,
+                        "currentValueP": 87.68721349495388
+                    },
+                    {
+                        "name": "equity",
+                        "currentValue": 2439.0,
+                        "currentValueP": 11.04799695602544
+                    },
+                    {
+                        "name": "Others",
+                        "currentValue": 279.22,
+                        "currentValueP": 1.2647895490206738
+                    }
+                ]
+            },
+            "NAV_CHECK": true
+        }
+    }
+}

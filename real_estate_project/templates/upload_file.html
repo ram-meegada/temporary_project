@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Upload File</title>
+</head>
+<body>
+    <h2>Upload a File</h2>
+    
+    <form action="" method="POST" enctype="multipart/form-data">
+        {% csrf_token %}
+        <label for="file">Choose a file:</label>
+        <input type="file" name="file" required>
+        <div class="col-xs-12 m-t-1">
+            <div class="form-group d-flex align-items-center">
+                <label for="make_live" class="control-label fw500 mr-2">Make Live: </label>
+                <input id="make_live" type="checkbox" name="make-live" class="form-check-input"
+                    style="width: 20px; height: 20px;" {% if make_live %} checked {% endif %}>
+            </div>
+        </div>
+        <div class="col-xs-12 m-t-1">
+            <div class="form-group">
+                <label for="url" class="control-label fw500">Video URL: </label>
+                {% if video_url %}
+                    <p>
+                        <a href="{{ video_url }}" target="_blank">{{ video_url }}</a>
+                    </p>
+                {% endif %}
+                <input id="url" name="video-url" class="form-control" placeholder="Video URL" value='{{ video_url }}'>
+            </div>
+        </div>
+        <button type="submit">Upload</button>
+    </form>
+
+
+    {% if uploaded_file_url %}
+        <p>File uploaded successfully: <a href="{{ uploaded_file_url }}">{{ uploaded_file_url }}</a></p>
+    {% endif %}
+</body>
+</html>
